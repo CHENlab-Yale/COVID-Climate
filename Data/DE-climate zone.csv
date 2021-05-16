@@ -1,0 +1,2672 @@
+,GEOID,NAME,STATE_NAME,climate
+1,10001,Kent,Delaware,Mixed-Humid
+2,10003,New Castle,Delaware,Mixed-Humid
+3,10005,Sussex,Delaware,Mixed-Humid
+4,1001,Autauga,Alabama,Hot-Humid
+5,1003,Baldwin,Alabama,Hot-Humid
+6,1005,Barbour,Alabama,Hot-Humid
+7,1007,Bibb,Alabama,Mixed-Humid
+8,1009,Blount,Alabama,Mixed-Humid
+9,1011,Bullock,Alabama,Hot-Humid
+10,1013,Butler,Alabama,Hot-Humid
+11,1015,Calhoun,Alabama,Mixed-Humid
+12,1017,Chambers,Alabama,Mixed-Humid
+13,1019,Cherokee,Alabama,Mixed-Humid
+14,1021,Chilton,Alabama,Mixed-Humid
+15,1023,Choctaw,Alabama,Hot-Humid
+16,1025,Clarke,Alabama,Hot-Humid
+17,1027,Clay,Alabama,Mixed-Humid
+18,1029,Cleburne,Alabama,Mixed-Humid
+19,1031,Coffee,Alabama,Hot-Humid
+20,1033,Colbert,Alabama,Mixed-Humid
+21,1035,Conecuh,Alabama,Hot-Humid
+22,1037,Coosa,Alabama,Mixed-Humid
+23,1039,Covington,Alabama,Hot-Humid
+24,1041,Crenshaw,Alabama,Hot-Humid
+25,1043,Cullman,Alabama,Mixed-Humid
+26,1045,Dale,Alabama,Hot-Humid
+27,1047,Dallas,Alabama,Hot-Humid
+28,1049,DeKalb,Alabama,Mixed-Humid
+29,1051,Elmore,Alabama,Hot-Humid
+30,1053,Escambia,Alabama,Hot-Humid
+31,1055,Etowah,Alabama,Mixed-Humid
+32,1057,Fayette,Alabama,Mixed-Humid
+33,1059,Franklin,Alabama,Mixed-Humid
+34,1061,Geneva,Alabama,Hot-Humid
+35,1063,Greene,Alabama,Mixed-Humid
+36,1065,Hale,Alabama,Mixed-Humid
+37,1067,Henry,Alabama,Hot-Humid
+38,1069,Houston,Alabama,Hot-Humid
+39,1071,Jackson,Alabama,Mixed-Humid
+40,1073,Jefferson,Alabama,Mixed-Humid
+41,1075,Lamar,Alabama,Mixed-Humid
+42,1077,Lauderdale,Alabama,Mixed-Humid
+43,1079,Lawrence,Alabama,Mixed-Humid
+44,1081,Lee,Alabama,Mixed-Humid
+45,1083,Limestone,Alabama,Mixed-Humid
+46,1085,Lowndes,Alabama,Hot-Humid
+47,1087,Macon,Alabama,Hot-Humid
+48,1089,Madison,Alabama,Mixed-Humid
+49,1091,Marengo,Alabama,Hot-Humid
+50,1093,Marion,Alabama,Mixed-Humid
+51,1095,Marshall,Alabama,Mixed-Humid
+52,1097,Mobile,Alabama,Hot-Humid
+53,1099,Monroe,Alabama,Hot-Humid
+54,11001,District of Columbia,District of Columbia,Mixed-Humid
+55,1101,Montgomery,Alabama,Hot-Humid
+56,1103,Morgan,Alabama,Mixed-Humid
+57,1105,Perry,Alabama,Hot-Humid
+58,1107,Pickens,Alabama,Mixed-Humid
+59,1109,Pike,Alabama,Hot-Humid
+60,1111,Randolph,Alabama,Mixed-Humid
+61,1113,Russell,Alabama,Hot-Humid
+62,1115,St. Clair,Alabama,Mixed-Humid
+63,1117,Shelby,Alabama,Mixed-Humid
+64,1119,Sumter,Alabama,Mixed-Humid
+65,1121,Talladega,Alabama,Mixed-Humid
+66,1123,Tallapoosa,Alabama,Mixed-Humid
+67,1125,Tuscaloosa,Alabama,Mixed-Humid
+68,1127,Walker,Alabama,Mixed-Humid
+69,1129,Washington,Alabama,Hot-Humid
+70,1131,Wilcox,Alabama,Hot-Humid
+71,1133,Winston,Alabama,Mixed-Humid
+72,12001,Alachua,Florida,Hot-Humid
+73,12003,Baker,Florida,Hot-Humid
+74,12005,Bay,Florida,Hot-Humid
+75,12007,Bradford,Florida,Hot-Humid
+76,12009,Brevard,Florida,Hot-Humid
+77,12011,Broward,Florida,Hot-Humid
+78,12013,Calhoun,Florida,Hot-Humid
+79,12015,Charlotte,Florida,Hot-Humid
+80,12017,Citrus,Florida,Hot-Humid
+81,12019,Clay,Florida,Hot-Humid
+82,12021,Collier,Florida,Hot-Humid
+83,12023,Columbia,Florida,Hot-Humid
+84,12027,DeSoto,Florida,Hot-Humid
+85,12029,Dixie,Florida,Hot-Humid
+86,12031,Duval,Florida,Hot-Humid
+87,12033,Escambia,Florida,Hot-Humid
+88,12035,Flagler,Florida,Hot-Humid
+89,12037,Franklin,Florida,Hot-Humid
+90,12039,Gadsden,Florida,Hot-Humid
+91,12041,Gilchrist,Florida,Hot-Humid
+92,12043,Glades,Florida,Hot-Humid
+93,12045,Gulf,Florida,Hot-Humid
+94,12047,Hamilton,Florida,Hot-Humid
+95,12049,Hardee,Florida,Hot-Humid
+96,12051,Hendry,Florida,Hot-Humid
+97,12053,Hernando,Florida,Hot-Humid
+98,12055,Highlands,Florida,Hot-Humid
+99,12057,Hillsborough,Florida,Hot-Humid
+100,12059,Holmes,Florida,Hot-Humid
+101,12061,Indian River,Florida,Hot-Humid
+102,12063,Jackson,Florida,Hot-Humid
+103,12065,Jefferson,Florida,Hot-Humid
+104,12067,Lafayette,Florida,Hot-Humid
+105,12069,Lake,Florida,Hot-Humid
+106,12071,Lee,Florida,Hot-Humid
+107,12073,Leon,Florida,Hot-Humid
+108,12075,Levy,Florida,Hot-Humid
+109,12077,Liberty,Florida,Hot-Humid
+110,12079,Madison,Florida,Hot-Humid
+111,12081,Manatee,Florida,Hot-Humid
+112,12083,Marion,Florida,Hot-Humid
+113,12085,Martin,Florida,Hot-Humid
+114,12086,Miami-Dade,Florida,Hot-Humid
+115,12087,Monroe,Florida,Hot-Humid
+116,12089,Nassau,Florida,Hot-Humid
+117,12091,Okaloosa,Florida,Hot-Humid
+118,12093,Okeechobee,Florida,Hot-Humid
+119,12095,Orange,Florida,Hot-Humid
+120,12097,Osceola,Florida,Hot-Humid
+121,12099,Palm Beach,Florida,Hot-Humid
+122,12101,Pasco,Florida,Hot-Humid
+123,12103,Pinellas,Florida,Hot-Humid
+124,12105,Polk,Florida,Hot-Humid
+125,12107,Putnam,Florida,Hot-Humid
+126,12109,St. Johns,Florida,Hot-Humid
+127,12111,St. Lucie,Florida,Hot-Humid
+128,12113,Santa Rosa,Florida,Hot-Humid
+129,12115,Sarasota,Florida,Hot-Humid
+130,12117,Seminole,Florida,Hot-Humid
+131,12119,Sumter,Florida,Hot-Humid
+132,12121,Suwannee,Florida,Hot-Humid
+133,12123,Taylor,Florida,Hot-Humid
+134,12125,Union,Florida,Hot-Humid
+135,12127,Volusia,Florida,Hot-Humid
+136,12129,Wakulla,Florida,Hot-Humid
+137,12131,Walton,Florida,Hot-Humid
+138,12133,Washington,Florida,Hot-Humid
+139,13001,Appling,Georgia,Hot-Humid
+140,13003,Atkinson,Georgia,Hot-Humid
+141,13005,Bacon,Georgia,Hot-Humid
+142,13009,Baldwin,Georgia,Mixed-Humid
+143,13011,Banks,Georgia,Mixed-Humid
+144,13013,Barrow,Georgia,Mixed-Humid
+145,13015,Bartow,Georgia,Mixed-Humid
+146,13017,Ben Hill,Georgia,Hot-Humid
+147,13019,Berrien,Georgia,Hot-Humid
+148,13021,Bibb,Georgia,Mixed-Humid
+149,13023,Bleckley,Georgia,Hot-Humid
+150,13025,Brantley,Georgia,Hot-Humid
+151,13027,Brooks,Georgia,Hot-Humid
+152,13029,Bryan,Georgia,Hot-Humid
+153,13031,Bulloch,Georgia,Hot-Humid
+154,13033,Burke,Georgia,Mixed-Humid
+155,13035,Butts,Georgia,Mixed-Humid
+156,13037,Calhoun,Georgia,Hot-Humid
+157,13039,Camden,Georgia,Hot-Humid
+158,13043,Candler,Georgia,Hot-Humid
+159,13045,Carroll,Georgia,Mixed-Humid
+160,13047,Catoosa,Georgia,Mixed-Humid
+161,13049,Charlton,Georgia,Hot-Humid
+162,13051,Chatham,Georgia,Hot-Humid
+163,13053,Chattahoochee,Georgia,Hot-Humid
+164,13055,Chattooga,Georgia,Mixed-Humid
+165,13057,Cherokee,Georgia,Mixed-Humid
+166,13059,Clarke,Georgia,Mixed-Humid
+167,13063,Clayton,Georgia,Mixed-Humid
+168,13065,Clinch,Georgia,Hot-Humid
+169,13067,Cobb,Georgia,Mixed-Humid
+170,13069,Coffee,Georgia,Hot-Humid
+171,13071,Colquitt,Georgia,Hot-Humid
+172,13073,Columbia,Georgia,Mixed-Humid
+173,13075,Cook,Georgia,Hot-Humid
+174,13077,Coweta,Georgia,Mixed-Humid
+175,13079,Crawford,Georgia,Mixed-Humid
+176,13081,Crisp,Georgia,Hot-Humid
+177,13083,Dade,Georgia,Mixed-Humid
+178,13085,Dawson,Georgia,Mixed-Humid
+179,13087,Decatur,Georgia,Hot-Humid
+180,13089,DeKalb,Georgia,Mixed-Humid
+181,13091,Dodge,Georgia,Hot-Humid
+182,13093,Dooly,Georgia,Hot-Humid
+183,13095,Dougherty,Georgia,Hot-Humid
+184,13097,Douglas,Georgia,Mixed-Humid
+185,13099,Early,Georgia,Hot-Humid
+186,13103,Effingham,Georgia,Hot-Humid
+187,13105,Elbert,Georgia,Mixed-Humid
+188,13107,Emanuel,Georgia,Hot-Humid
+189,13109,Evans,Georgia,Hot-Humid
+190,13111,Fannin,Georgia,Mixed-Humid
+191,13113,Fayette,Georgia,Mixed-Humid
+192,13115,Floyd,Georgia,Mixed-Humid
+193,13117,Forsyth,Georgia,Mixed-Humid
+194,13119,Franklin,Georgia,Mixed-Humid
+195,13121,Fulton,Georgia,Mixed-Humid
+196,13123,Gilmer,Georgia,Mixed-Humid
+197,13127,Glynn,Georgia,Hot-Humid
+198,13129,Gordon,Georgia,Mixed-Humid
+199,13131,Grady,Georgia,Hot-Humid
+200,13133,Greene,Georgia,Mixed-Humid
+201,13135,Gwinnett,Georgia,Mixed-Humid
+202,13137,Habersham,Georgia,Mixed-Humid
+203,13139,Hall,Georgia,Mixed-Humid
+204,13141,Hancock,Georgia,Mixed-Humid
+205,13143,Haralson,Georgia,Mixed-Humid
+206,13145,Harris,Georgia,Mixed-Humid
+207,13147,Hart,Georgia,Mixed-Humid
+208,13149,Heard,Georgia,Mixed-Humid
+209,13151,Henry,Georgia,Mixed-Humid
+210,13153,Houston,Georgia,Hot-Humid
+211,13155,Irwin,Georgia,Hot-Humid
+212,13157,Jackson,Georgia,Mixed-Humid
+213,13159,Jasper,Georgia,Mixed-Humid
+214,13161,Jeff Davis,Georgia,Hot-Humid
+215,13163,Jefferson,Georgia,Mixed-Humid
+216,13165,Jenkins,Georgia,Hot-Humid
+217,13167,Johnson,Georgia,Hot-Humid
+218,13169,Jones,Georgia,Mixed-Humid
+219,13171,Lamar,Georgia,Mixed-Humid
+220,13173,Lanier,Georgia,Hot-Humid
+221,13175,Laurens,Georgia,Hot-Humid
+222,13177,Lee,Georgia,Hot-Humid
+223,13179,Liberty,Georgia,Hot-Humid
+224,13181,Lincoln,Georgia,Mixed-Humid
+225,13183,Long,Georgia,Hot-Humid
+226,13185,Lowndes,Georgia,Hot-Humid
+227,13187,Lumpkin,Georgia,Mixed-Humid
+228,13189,McDuffie,Georgia,Mixed-Humid
+229,13191,McIntosh,Georgia,Hot-Humid
+230,13193,Macon,Georgia,Hot-Humid
+231,13195,Madison,Georgia,Mixed-Humid
+232,13199,Meriwether,Georgia,Mixed-Humid
+233,13201,Miller,Georgia,Hot-Humid
+234,13205,Mitchell,Georgia,Hot-Humid
+235,13207,Monroe,Georgia,Mixed-Humid
+236,13209,Montgomery,Georgia,Hot-Humid
+237,13211,Morgan,Georgia,Mixed-Humid
+238,13213,Murray,Georgia,Mixed-Humid
+239,13215,Muscogee,Georgia,Mixed-Humid
+240,13217,Newton,Georgia,Mixed-Humid
+241,13219,Oconee,Georgia,Mixed-Humid
+242,13221,Oglethorpe,Georgia,Mixed-Humid
+243,13223,Paulding,Georgia,Mixed-Humid
+244,13225,Peach,Georgia,Hot-Humid
+245,13227,Pickens,Georgia,Mixed-Humid
+246,13229,Pierce,Georgia,Hot-Humid
+247,13231,Pike,Georgia,Mixed-Humid
+248,13233,Polk,Georgia,Mixed-Humid
+249,13235,Pulaski,Georgia,Hot-Humid
+250,13237,Putnam,Georgia,Mixed-Humid
+251,13241,Rabun,Georgia,Mixed-Humid
+252,13243,Randolph,Georgia,Hot-Humid
+253,13245,Richmond,Georgia,Mixed-Humid
+254,13247,Rockdale,Georgia,Mixed-Humid
+255,13251,Screven,Georgia,Hot-Humid
+256,13253,Seminole,Georgia,Hot-Humid
+257,13255,Spalding,Georgia,Mixed-Humid
+258,13257,Stephens,Georgia,Mixed-Humid
+259,13259,Stewart,Georgia,Hot-Humid
+260,13261,Sumter,Georgia,Hot-Humid
+261,13267,Tattnall,Georgia,Hot-Humid
+262,13269,Taylor,Georgia,Hot-Humid
+263,13271,Telfair,Georgia,Hot-Humid
+264,13273,Terrell,Georgia,Hot-Humid
+265,13275,Thomas,Georgia,Hot-Humid
+266,13277,Tift,Georgia,Hot-Humid
+267,13279,Toombs,Georgia,Hot-Humid
+268,13281,Towns,Georgia,Mixed-Humid
+269,13283,Treutlen,Georgia,Hot-Humid
+270,13285,Troup,Georgia,Mixed-Humid
+271,13287,Turner,Georgia,Hot-Humid
+272,13289,Twiggs,Georgia,Hot-Humid
+273,13291,Union,Georgia,Mixed-Humid
+274,13293,Upson,Georgia,Mixed-Humid
+275,13295,Walker,Georgia,Mixed-Humid
+276,13297,Walton,Georgia,Mixed-Humid
+277,13299,Ware,Georgia,Hot-Humid
+278,13303,Washington,Georgia,Mixed-Humid
+279,13305,Wayne,Georgia,Hot-Humid
+280,13309,Wheeler,Georgia,Hot-Humid
+281,13311,White,Georgia,Mixed-Humid
+282,13313,Whitfield,Georgia,Mixed-Humid
+283,13315,Wilcox,Georgia,Hot-Humid
+284,13317,Wilkes,Georgia,Mixed-Humid
+285,13319,Wilkinson,Georgia,Mixed-Humid
+286,13321,Worth,Georgia,Hot-Humid
+287,16001,Ada,Idaho,Cold/Very cold
+288,16005,Bannock,Idaho,Cold/Very cold
+289,16009,Benewah,Idaho,Cold/Very cold
+290,16011,Bingham,Idaho,Cold/Very cold
+291,16013,Blaine,Idaho,Cold/Very cold
+292,16017,Bonner,Idaho,Cold/Very cold
+293,16019,Bonneville,Idaho,Cold/Very cold
+294,16021,Boundary,Idaho,Cold/Very cold
+295,16027,Canyon,Idaho,Cold/Very cold
+296,16029,Caribou,Idaho,Cold/Very cold
+297,16031,Cassia,Idaho,Cold/Very cold
+298,16035,Clearwater,Idaho,Cold/Very cold
+299,16039,Elmore,Idaho,Cold/Very cold
+300,16041,Franklin,Idaho,Cold/Very cold
+301,16043,Fremont,Idaho,Cold/Very cold
+302,16045,Gem,Idaho,Cold/Very cold
+303,16047,Gooding,Idaho,Cold/Very cold
+304,16049,Idaho,Idaho,Cold/Very cold
+305,16051,Jefferson,Idaho,Cold/Very cold
+306,16053,Jerome,Idaho,Cold/Very cold
+307,16055,Kootenai,Idaho,Cold/Very cold
+308,16057,Latah,Idaho,Cold/Very cold
+309,16059,Lemhi,Idaho,Cold/Very cold
+310,16063,Lincoln,Idaho,Cold/Very cold
+311,16065,Madison,Idaho,Cold/Very cold
+312,16067,Minidoka,Idaho,Cold/Very cold
+313,16069,Nez Perce,Idaho,Cold/Very cold
+314,16073,Owyhee,Idaho,Cold/Very cold
+315,16075,Payette,Idaho,Cold/Very cold
+316,16077,Power,Idaho,Cold/Very cold
+317,16079,Shoshone,Idaho,Cold/Very cold
+318,16081,Teton,Idaho,Cold/Very cold
+319,16083,Twin Falls,Idaho,Cold/Very cold
+320,16085,Valley,Idaho,Cold/Very cold
+321,16087,Washington,Idaho,Cold/Very cold
+322,17001,Adams,Illinois,Cold/Very cold
+323,17005,Bond,Illinois,Mixed-Humid
+324,17007,Boone,Illinois,Cold/Very cold
+325,17009,Brown,Illinois,Cold/Very cold
+326,17011,Bureau,Illinois,Cold/Very cold
+327,17015,Carroll,Illinois,Cold/Very cold
+328,17017,Cass,Illinois,Cold/Very cold
+329,17019,Champaign,Illinois,Cold/Very cold
+330,17021,Christian,Illinois,Mixed-Humid
+331,17023,Clark,Illinois,Cold/Very cold
+332,17025,Clay,Illinois,Mixed-Humid
+333,17027,Clinton,Illinois,Mixed-Humid
+334,17029,Coles,Illinois,Cold/Very cold
+335,17031,Cook,Illinois,Cold/Very cold
+336,17033,Crawford,Illinois,Mixed-Humid
+337,17035,Cumberland,Illinois,Cold/Very cold
+338,17037,DeKalb,Illinois,Cold/Very cold
+339,17039,De Witt,Illinois,Cold/Very cold
+340,17041,Douglas,Illinois,Cold/Very cold
+341,17043,DuPage,Illinois,Cold/Very cold
+342,17045,Edgar,Illinois,Cold/Very cold
+343,17047,Edwards,Illinois,Mixed-Humid
+344,17049,Effingham,Illinois,Mixed-Humid
+345,17051,Fayette,Illinois,Mixed-Humid
+346,17053,Ford,Illinois,Cold/Very cold
+347,17055,Franklin,Illinois,Mixed-Humid
+348,17057,Fulton,Illinois,Cold/Very cold
+349,17061,Greene,Illinois,Cold/Very cold
+350,17063,Grundy,Illinois,Cold/Very cold
+351,17065,Hamilton,Illinois,Mixed-Humid
+352,17067,Hancock,Illinois,Cold/Very cold
+353,17073,Henry,Illinois,Cold/Very cold
+354,17075,Iroquois,Illinois,Cold/Very cold
+355,17077,Jackson,Illinois,Mixed-Humid
+356,17079,Jasper,Illinois,Mixed-Humid
+357,17081,Jefferson,Illinois,Mixed-Humid
+358,17083,Jersey,Illinois,Cold/Very cold
+359,17085,Jo Daviess,Illinois,Cold/Very cold
+360,17087,Johnson,Illinois,Mixed-Humid
+361,17089,Kane,Illinois,Cold/Very cold
+362,17091,Kankakee,Illinois,Cold/Very cold
+363,17093,Kendall,Illinois,Cold/Very cold
+364,17095,Knox,Illinois,Cold/Very cold
+365,17097,Lake,Illinois,Cold/Very cold
+366,17099,LaSalle,Illinois,Cold/Very cold
+367,17101,Lawrence,Illinois,Mixed-Humid
+368,17103,Lee,Illinois,Cold/Very cold
+369,17105,Livingston,Illinois,Cold/Very cold
+370,17107,Logan,Illinois,Cold/Very cold
+371,17109,McDonough,Illinois,Cold/Very cold
+372,17111,McHenry,Illinois,Cold/Very cold
+373,17113,McLean,Illinois,Cold/Very cold
+374,17115,Macon,Illinois,Cold/Very cold
+375,17117,Macoupin,Illinois,Mixed-Humid
+376,17119,Madison,Illinois,Mixed-Humid
+377,17121,Marion,Illinois,Mixed-Humid
+378,17123,Marshall,Illinois,Cold/Very cold
+379,17125,Mason,Illinois,Cold/Very cold
+380,17127,Massac,Illinois,Mixed-Humid
+381,17129,Menard,Illinois,Cold/Very cold
+382,17131,Mercer,Illinois,Cold/Very cold
+383,17133,Monroe,Illinois,Mixed-Humid
+384,17135,Montgomery,Illinois,Mixed-Humid
+385,17137,Morgan,Illinois,Cold/Very cold
+386,17139,Moultrie,Illinois,Cold/Very cold
+387,17141,Ogle,Illinois,Cold/Very cold
+388,17143,Peoria,Illinois,Cold/Very cold
+389,17145,Perry,Illinois,Mixed-Humid
+390,17147,Piatt,Illinois,Cold/Very cold
+391,17149,Pike,Illinois,Cold/Very cold
+392,17153,Pulaski,Illinois,Mixed-Humid
+393,17157,Randolph,Illinois,Mixed-Humid
+394,17159,Richland,Illinois,Mixed-Humid
+395,17161,Rock Island,Illinois,Cold/Very cold
+396,17163,St. Clair,Illinois,Mixed-Humid
+397,17165,Saline,Illinois,Mixed-Humid
+398,17167,Sangamon,Illinois,Cold/Very cold
+399,17169,Schuyler,Illinois,Cold/Very cold
+400,17173,Shelby,Illinois,Mixed-Humid
+401,17175,Stark,Illinois,Cold/Very cold
+402,17177,Stephenson,Illinois,Cold/Very cold
+403,17179,Tazewell,Illinois,Cold/Very cold
+404,17181,Union,Illinois,Mixed-Humid
+405,17183,Vermilion,Illinois,Cold/Very cold
+406,17185,Wabash,Illinois,Mixed-Humid
+407,17187,Warren,Illinois,Cold/Very cold
+408,17189,Washington,Illinois,Mixed-Humid
+409,17191,Wayne,Illinois,Mixed-Humid
+410,17193,White,Illinois,Mixed-Humid
+411,17195,Whiteside,Illinois,Cold/Very cold
+412,17197,Will,Illinois,Cold/Very cold
+413,17199,Williamson,Illinois,Mixed-Humid
+414,17201,Winnebago,Illinois,Cold/Very cold
+415,17203,Woodford,Illinois,Cold/Very cold
+416,18001,Adams,Indiana,Cold/Very cold
+417,18003,Allen,Indiana,Cold/Very cold
+418,18005,Bartholomew,Indiana,Cold/Very cold
+419,18007,Benton,Indiana,Cold/Very cold
+420,18009,Blackford,Indiana,Cold/Very cold
+421,18011,Boone,Indiana,Cold/Very cold
+422,18013,Brown,Indiana,Mixed-Humid
+423,18015,Carroll,Indiana,Cold/Very cold
+424,18017,Cass,Indiana,Cold/Very cold
+425,18019,Clark,Indiana,Mixed-Humid
+426,18021,Clay,Indiana,Cold/Very cold
+427,18023,Clinton,Indiana,Cold/Very cold
+428,18025,Crawford,Indiana,Mixed-Humid
+429,18027,Daviess,Indiana,Mixed-Humid
+430,18029,Dearborn,Indiana,Mixed-Humid
+431,18031,Decatur,Indiana,Cold/Very cold
+432,18033,DeKalb,Indiana,Cold/Very cold
+433,18035,Delaware,Indiana,Cold/Very cold
+434,18037,Dubois,Indiana,Mixed-Humid
+435,18039,Elkhart,Indiana,Cold/Very cold
+436,18041,Fayette,Indiana,Cold/Very cold
+437,18043,Floyd,Indiana,Mixed-Humid
+438,18045,Fountain,Indiana,Cold/Very cold
+439,18047,Franklin,Indiana,Cold/Very cold
+440,18049,Fulton,Indiana,Cold/Very cold
+441,18051,Gibson,Indiana,Mixed-Humid
+442,18053,Grant,Indiana,Cold/Very cold
+443,18055,Greene,Indiana,Mixed-Humid
+444,18057,Hamilton,Indiana,Cold/Very cold
+445,18059,Hancock,Indiana,Cold/Very cold
+446,18061,Harrison,Indiana,Mixed-Humid
+447,18063,Hendricks,Indiana,Cold/Very cold
+448,18065,Henry,Indiana,Cold/Very cold
+449,18067,Howard,Indiana,Cold/Very cold
+450,18069,Huntington,Indiana,Cold/Very cold
+451,18071,Jackson,Indiana,Mixed-Humid
+452,18073,Jasper,Indiana,Cold/Very cold
+453,18075,Jay,Indiana,Cold/Very cold
+454,18077,Jefferson,Indiana,Mixed-Humid
+455,18079,Jennings,Indiana,Mixed-Humid
+456,18081,Johnson,Indiana,Cold/Very cold
+457,18083,Knox,Indiana,Mixed-Humid
+458,18085,Kosciusko,Indiana,Cold/Very cold
+459,18087,LaGrange,Indiana,Cold/Very cold
+460,18089,Lake,Indiana,Cold/Very cold
+461,18091,LaPorte,Indiana,Cold/Very cold
+462,18093,Lawrence,Indiana,Mixed-Humid
+463,18095,Madison,Indiana,Cold/Very cold
+464,18097,Marion,Indiana,Cold/Very cold
+465,18099,Marshall,Indiana,Cold/Very cold
+466,18101,Martin,Indiana,Mixed-Humid
+467,18103,Miami,Indiana,Cold/Very cold
+468,18105,Monroe,Indiana,Mixed-Humid
+469,18107,Montgomery,Indiana,Cold/Very cold
+470,18109,Morgan,Indiana,Cold/Very cold
+471,18111,Newton,Indiana,Cold/Very cold
+472,18113,Noble,Indiana,Cold/Very cold
+473,18115,Ohio,Indiana,Mixed-Humid
+474,18117,Orange,Indiana,Mixed-Humid
+475,18119,Owen,Indiana,Cold/Very cold
+476,18121,Parke,Indiana,Cold/Very cold
+477,18123,Perry,Indiana,Mixed-Humid
+478,18125,Pike,Indiana,Mixed-Humid
+479,18127,Porter,Indiana,Cold/Very cold
+480,18129,Posey,Indiana,Mixed-Humid
+481,18131,Pulaski,Indiana,Cold/Very cold
+482,18133,Putnam,Indiana,Cold/Very cold
+483,18135,Randolph,Indiana,Cold/Very cold
+484,18137,Ripley,Indiana,Mixed-Humid
+485,18139,Rush,Indiana,Cold/Very cold
+486,18141,St. Joseph,Indiana,Cold/Very cold
+487,18143,Scott,Indiana,Mixed-Humid
+488,18145,Shelby,Indiana,Cold/Very cold
+489,18147,Spencer,Indiana,Mixed-Humid
+490,18149,Starke,Indiana,Cold/Very cold
+491,18151,Steuben,Indiana,Cold/Very cold
+492,18153,Sullivan,Indiana,Mixed-Humid
+493,18155,Switzerland,Indiana,Mixed-Humid
+494,18157,Tippecanoe,Indiana,Cold/Very cold
+495,18159,Tipton,Indiana,Cold/Very cold
+496,18161,Union,Indiana,Cold/Very cold
+497,18163,Vanderburgh,Indiana,Mixed-Humid
+498,18165,Vermillion,Indiana,Cold/Very cold
+499,18167,Vigo,Indiana,Cold/Very cold
+500,18169,Wabash,Indiana,Cold/Very cold
+501,18171,Warren,Indiana,Cold/Very cold
+502,18173,Warrick,Indiana,Mixed-Humid
+503,18175,Washington,Indiana,Mixed-Humid
+504,18177,Wayne,Indiana,Cold/Very cold
+505,18179,Wells,Indiana,Cold/Very cold
+506,18181,White,Indiana,Cold/Very cold
+507,18183,Whitley,Indiana,Cold/Very cold
+508,19001,Adair,Iowa,Cold/Very cold
+509,19005,Allamakee,Iowa,Cold/Very cold
+510,19007,Appanoose,Iowa,Cold/Very cold
+511,19011,Benton,Iowa,Cold/Very cold
+512,19013,Black Hawk,Iowa,Cold/Very cold
+513,19015,Boone,Iowa,Cold/Very cold
+514,19017,Bremer,Iowa,Cold/Very cold
+515,19019,Buchanan,Iowa,Cold/Very cold
+516,19021,Buena Vista,Iowa,Cold/Very cold
+517,19023,Butler,Iowa,Cold/Very cold
+518,19025,Calhoun,Iowa,Cold/Very cold
+519,19027,Carroll,Iowa,Cold/Very cold
+520,19029,Cass,Iowa,Cold/Very cold
+521,19031,Cedar,Iowa,Cold/Very cold
+522,19033,Cerro Gordo,Iowa,Cold/Very cold
+523,19035,Cherokee,Iowa,Cold/Very cold
+524,19037,Chickasaw,Iowa,Cold/Very cold
+525,19039,Clarke,Iowa,Cold/Very cold
+526,19041,Clay,Iowa,Cold/Very cold
+527,19043,Clayton,Iowa,Cold/Very cold
+528,19045,Clinton,Iowa,Cold/Very cold
+529,19047,Crawford,Iowa,Cold/Very cold
+530,19049,Dallas,Iowa,Cold/Very cold
+531,19051,Davis,Iowa,Cold/Very cold
+532,19053,Decatur,Iowa,Cold/Very cold
+533,19055,Delaware,Iowa,Cold/Very cold
+534,19057,Des Moines,Iowa,Cold/Very cold
+535,19059,Dickinson,Iowa,Cold/Very cold
+536,19061,Dubuque,Iowa,Cold/Very cold
+537,19063,Emmet,Iowa,Cold/Very cold
+538,19065,Fayette,Iowa,Cold/Very cold
+539,19067,Floyd,Iowa,Cold/Very cold
+540,19069,Franklin,Iowa,Cold/Very cold
+541,19071,Fremont,Iowa,Cold/Very cold
+542,19073,Greene,Iowa,Cold/Very cold
+543,19075,Grundy,Iowa,Cold/Very cold
+544,19077,Guthrie,Iowa,Cold/Very cold
+545,19079,Hamilton,Iowa,Cold/Very cold
+546,19081,Hancock,Iowa,Cold/Very cold
+547,19083,Hardin,Iowa,Cold/Very cold
+548,19085,Harrison,Iowa,Cold/Very cold
+549,19087,Henry,Iowa,Cold/Very cold
+550,19089,Howard,Iowa,Cold/Very cold
+551,19091,Humboldt,Iowa,Cold/Very cold
+552,19093,Ida,Iowa,Cold/Very cold
+553,19095,Iowa,Iowa,Cold/Very cold
+554,19097,Jackson,Iowa,Cold/Very cold
+555,19099,Jasper,Iowa,Cold/Very cold
+556,19101,Jefferson,Iowa,Cold/Very cold
+557,19103,Johnson,Iowa,Cold/Very cold
+558,19105,Jones,Iowa,Cold/Very cold
+559,19107,Keokuk,Iowa,Cold/Very cold
+560,19109,Kossuth,Iowa,Cold/Very cold
+561,19111,Lee,Iowa,Cold/Very cold
+562,19113,Linn,Iowa,Cold/Very cold
+563,19115,Louisa,Iowa,Cold/Very cold
+564,19117,Lucas,Iowa,Cold/Very cold
+565,19119,Lyon,Iowa,Cold/Very cold
+566,19121,Madison,Iowa,Cold/Very cold
+567,19123,Mahaska,Iowa,Cold/Very cold
+568,19125,Marion,Iowa,Cold/Very cold
+569,19127,Marshall,Iowa,Cold/Very cold
+570,19129,Mills,Iowa,Cold/Very cold
+571,19131,Mitchell,Iowa,Cold/Very cold
+572,19133,Monona,Iowa,Cold/Very cold
+573,19135,Monroe,Iowa,Cold/Very cold
+574,19137,Montgomery,Iowa,Cold/Very cold
+575,19139,Muscatine,Iowa,Cold/Very cold
+576,19141,O'Brien,Iowa,Cold/Very cold
+577,19143,Osceola,Iowa,Cold/Very cold
+578,19145,Page,Iowa,Cold/Very cold
+579,19147,Palo Alto,Iowa,Cold/Very cold
+580,19149,Plymouth,Iowa,Cold/Very cold
+581,19151,Pocahontas,Iowa,Cold/Very cold
+582,19153,Polk,Iowa,Cold/Very cold
+583,19155,Pottawattamie,Iowa,Cold/Very cold
+584,19157,Poweshiek,Iowa,Cold/Very cold
+585,19161,Sac,Iowa,Cold/Very cold
+586,19163,Scott,Iowa,Cold/Very cold
+587,19165,Shelby,Iowa,Cold/Very cold
+588,19167,Sioux,Iowa,Cold/Very cold
+589,19169,Story,Iowa,Cold/Very cold
+590,19171,Tama,Iowa,Cold/Very cold
+591,19173,Taylor,Iowa,Cold/Very cold
+592,19175,Union,Iowa,Cold/Very cold
+593,19177,Van Buren,Iowa,Cold/Very cold
+594,19179,Wapello,Iowa,Cold/Very cold
+595,19181,Warren,Iowa,Cold/Very cold
+596,19183,Washington,Iowa,Cold/Very cold
+597,19187,Webster,Iowa,Cold/Very cold
+598,19189,Winnebago,Iowa,Cold/Very cold
+599,19191,Winneshiek,Iowa,Cold/Very cold
+600,19193,Woodbury,Iowa,Cold/Very cold
+601,19195,Worth,Iowa,Cold/Very cold
+602,19197,Wright,Iowa,Cold/Very cold
+603,20001,Allen,Kansas,Mixed-Humid
+604,20003,Anderson,Kansas,Mixed-Humid
+605,20005,Atchison,Kansas,Mixed-Humid
+606,20009,Barton,Kansas,Mixed-Humid
+607,20011,Bourbon,Kansas,Mixed-Humid
+608,20013,Brown,Kansas,Mixed-Humid
+609,20015,Butler,Kansas,Mixed-Humid
+610,20021,Cherokee,Kansas,Mixed-Humid
+611,20027,Clay,Kansas,Mixed-Humid
+612,20029,Cloud,Kansas,Cold/Very cold
+613,20031,Coffey,Kansas,Mixed-Humid
+614,20035,Cowley,Kansas,Mixed-Humid
+615,20037,Crawford,Kansas,Mixed-Humid
+616,20041,Dickinson,Kansas,Mixed-Humid
+617,20043,Doniphan,Kansas,Mixed-Humid
+618,20045,Douglas,Kansas,Mixed-Humid
+619,20051,Ellis,Kansas,Cold/Very cold
+620,20053,Ellsworth,Kansas,Mixed-Humid
+621,20055,Finney,Kansas,Mixed-Humid
+622,20057,Ford,Kansas,Mixed-Humid
+623,20059,Franklin,Kansas,Mixed-Humid
+624,20061,Geary,Kansas,Mixed-Humid
+625,20067,Grant,Kansas,Mixed-Humid
+626,20069,Gray,Kansas,Mixed-Humid
+627,20073,Greenwood,Kansas,Mixed-Humid
+628,20077,Harper,Kansas,Mixed-Humid
+629,20079,Harvey,Kansas,Mixed-Humid
+630,20085,Jackson,Kansas,Mixed-Humid
+631,20087,Jefferson,Kansas,Mixed-Humid
+632,20091,Johnson,Kansas,Mixed-Humid
+633,20093,Kearny,Kansas,Mixed-Humid
+634,20095,Kingman,Kansas,Mixed-Humid
+635,20099,Labette,Kansas,Mixed-Humid
+636,20103,Leavenworth,Kansas,Mixed-Humid
+637,20107,Linn,Kansas,Mixed-Humid
+638,20111,Lyon,Kansas,Mixed-Humid
+639,20113,McPherson,Kansas,Mixed-Humid
+640,20115,Marion,Kansas,Mixed-Humid
+641,20117,Marshall,Kansas,Mixed-Humid
+642,20119,Meade,Kansas,Mixed-Humid
+643,20121,Miami,Kansas,Mixed-Humid
+644,20123,Mitchell,Kansas,Cold/Very cold
+645,20125,Montgomery,Kansas,Mixed-Humid
+646,20127,Morris,Kansas,Mixed-Humid
+647,20131,Nemaha,Kansas,Mixed-Humid
+648,20133,Neosho,Kansas,Mixed-Humid
+649,20137,Norton,Kansas,Cold/Very cold
+650,20139,Osage,Kansas,Mixed-Humid
+651,20143,Ottawa,Kansas,Mixed-Humid
+652,20145,Pawnee,Kansas,Mixed-Humid
+653,20147,Phillips,Kansas,Cold/Very cold
+654,20149,Pottawatomie,Kansas,Mixed-Humid
+655,20151,Pratt,Kansas,Mixed-Humid
+656,20155,Reno,Kansas,Mixed-Humid
+657,20157,Republic,Kansas,Cold/Very cold
+658,20159,Rice,Kansas,Mixed-Humid
+659,20161,Riley,Kansas,Mixed-Humid
+660,20163,Rooks,Kansas,Cold/Very cold
+661,20167,Russell,Kansas,Mixed-Humid
+662,20169,Saline,Kansas,Mixed-Humid
+663,20171,Scott,Kansas,Cold/Very cold
+664,20173,Sedgwick,Kansas,Mixed-Humid
+665,20175,Seward,Kansas,Mixed-Humid
+666,20177,Shawnee,Kansas,Mixed-Humid
+667,20181,Sherman,Kansas,Cold/Very cold
+668,20189,Stevens,Kansas,Mixed-Humid
+669,20191,Sumner,Kansas,Mixed-Humid
+670,20193,Thomas,Kansas,Cold/Very cold
+671,20197,Wabaunsee,Kansas,Mixed-Humid
+672,20201,Washington,Kansas,Mixed-Humid
+673,20205,Wilson,Kansas,Mixed-Humid
+674,20209,Wyandotte,Kansas,Mixed-Humid
+675,21001,Adair,Kentucky,Mixed-Humid
+676,21003,Allen,Kentucky,Mixed-Humid
+677,21005,Anderson,Kentucky,Mixed-Humid
+678,21009,Barren,Kentucky,Mixed-Humid
+679,21011,Bath,Kentucky,Mixed-Humid
+680,21013,Bell,Kentucky,Mixed-Humid
+681,21015,Boone,Kentucky,Mixed-Humid
+682,21017,Bourbon,Kentucky,Mixed-Humid
+683,21019,Boyd,Kentucky,Mixed-Humid
+684,21021,Boyle,Kentucky,Mixed-Humid
+685,21025,Breathitt,Kentucky,Mixed-Humid
+686,21027,Breckinridge,Kentucky,Mixed-Humid
+687,21029,Bullitt,Kentucky,Mixed-Humid
+688,21031,Butler,Kentucky,Mixed-Humid
+689,21033,Caldwell,Kentucky,Mixed-Humid
+690,21035,Calloway,Kentucky,Mixed-Humid
+691,21037,Campbell,Kentucky,Mixed-Humid
+692,21041,Carroll,Kentucky,Mixed-Humid
+693,21043,Carter,Kentucky,Mixed-Humid
+694,21045,Casey,Kentucky,Mixed-Humid
+695,21047,Christian,Kentucky,Mixed-Humid
+696,21049,Clark,Kentucky,Mixed-Humid
+697,21051,Clay,Kentucky,Mixed-Humid
+698,21053,Clinton,Kentucky,Mixed-Humid
+699,21057,Cumberland,Kentucky,Mixed-Humid
+700,21059,Daviess,Kentucky,Mixed-Humid
+701,21061,Edmonson,Kentucky,Mixed-Humid
+702,21063,Elliott,Kentucky,Mixed-Humid
+703,21065,Estill,Kentucky,Mixed-Humid
+704,21067,Fayette,Kentucky,Mixed-Humid
+705,21069,Fleming,Kentucky,Mixed-Humid
+706,21071,Floyd,Kentucky,Mixed-Humid
+707,21073,Franklin,Kentucky,Mixed-Humid
+708,21077,Gallatin,Kentucky,Mixed-Humid
+709,21079,Garrard,Kentucky,Mixed-Humid
+710,21081,Grant,Kentucky,Mixed-Humid
+711,21083,Graves,Kentucky,Mixed-Humid
+712,21085,Grayson,Kentucky,Mixed-Humid
+713,21087,Green,Kentucky,Mixed-Humid
+714,21089,Greenup,Kentucky,Mixed-Humid
+715,21091,Hancock,Kentucky,Mixed-Humid
+716,21093,Hardin,Kentucky,Mixed-Humid
+717,21095,Harlan,Kentucky,Mixed-Humid
+718,21097,Harrison,Kentucky,Mixed-Humid
+719,21099,Hart,Kentucky,Mixed-Humid
+720,21101,Henderson,Kentucky,Mixed-Humid
+721,21103,Henry,Kentucky,Mixed-Humid
+722,21107,Hopkins,Kentucky,Mixed-Humid
+723,21109,Jackson,Kentucky,Mixed-Humid
+724,21111,Jefferson,Kentucky,Mixed-Humid
+725,21113,Jessamine,Kentucky,Mixed-Humid
+726,21115,Johnson,Kentucky,Mixed-Humid
+727,21117,Kenton,Kentucky,Mixed-Humid
+728,21119,Knott,Kentucky,Mixed-Humid
+729,21121,Knox,Kentucky,Mixed-Humid
+730,21123,Larue,Kentucky,Mixed-Humid
+731,21125,Laurel,Kentucky,Mixed-Humid
+732,21127,Lawrence,Kentucky,Mixed-Humid
+733,21129,Lee,Kentucky,Mixed-Humid
+734,21131,Leslie,Kentucky,Mixed-Humid
+735,21133,Letcher,Kentucky,Mixed-Humid
+736,21135,Lewis,Kentucky,Mixed-Humid
+737,21137,Lincoln,Kentucky,Mixed-Humid
+738,21139,Livingston,Kentucky,Mixed-Humid
+739,21141,Logan,Kentucky,Mixed-Humid
+740,21145,McCracken,Kentucky,Mixed-Humid
+741,21147,McCreary,Kentucky,Mixed-Humid
+742,21149,McLean,Kentucky,Mixed-Humid
+743,21151,Madison,Kentucky,Mixed-Humid
+744,21153,Magoffin,Kentucky,Mixed-Humid
+745,21155,Marion,Kentucky,Mixed-Humid
+746,21157,Marshall,Kentucky,Mixed-Humid
+747,21159,Martin,Kentucky,Mixed-Humid
+748,21161,Mason,Kentucky,Mixed-Humid
+749,21163,Meade,Kentucky,Mixed-Humid
+750,21167,Mercer,Kentucky,Mixed-Humid
+751,21169,Metcalfe,Kentucky,Mixed-Humid
+752,21171,Monroe,Kentucky,Mixed-Humid
+753,21173,Montgomery,Kentucky,Mixed-Humid
+754,21175,Morgan,Kentucky,Mixed-Humid
+755,21177,Muhlenberg,Kentucky,Mixed-Humid
+756,21179,Nelson,Kentucky,Mixed-Humid
+757,21183,Ohio,Kentucky,Mixed-Humid
+758,21185,Oldham,Kentucky,Mixed-Humid
+759,21187,Owen,Kentucky,Mixed-Humid
+760,21191,Pendleton,Kentucky,Mixed-Humid
+761,21193,Perry,Kentucky,Mixed-Humid
+762,21195,Pike,Kentucky,Mixed-Humid
+763,21197,Powell,Kentucky,Mixed-Humid
+764,21199,Pulaski,Kentucky,Mixed-Humid
+765,21203,Rockcastle,Kentucky,Mixed-Humid
+766,21205,Rowan,Kentucky,Mixed-Humid
+767,21207,Russell,Kentucky,Mixed-Humid
+768,21209,Scott,Kentucky,Mixed-Humid
+769,21211,Shelby,Kentucky,Mixed-Humid
+770,21213,Simpson,Kentucky,Mixed-Humid
+771,21215,Spencer,Kentucky,Mixed-Humid
+772,21217,Taylor,Kentucky,Mixed-Humid
+773,21219,Todd,Kentucky,Mixed-Humid
+774,21221,Trigg,Kentucky,Mixed-Humid
+775,21225,Union,Kentucky,Mixed-Humid
+776,21227,Warren,Kentucky,Mixed-Humid
+777,21229,Washington,Kentucky,Mixed-Humid
+778,21231,Wayne,Kentucky,Mixed-Humid
+779,21233,Webster,Kentucky,Mixed-Humid
+780,21235,Whitley,Kentucky,Mixed-Humid
+781,21239,Woodford,Kentucky,Mixed-Humid
+782,22001,Acadia,Louisiana,Hot-Humid
+783,22003,Allen,Louisiana,Hot-Humid
+784,22005,Ascension,Louisiana,Hot-Humid
+785,22007,Assumption,Louisiana,Hot-Humid
+786,22009,Avoyelles,Louisiana,Hot-Humid
+787,22011,Beauregard,Louisiana,Hot-Humid
+788,22013,Bienville,Louisiana,Hot-Humid
+789,22015,Bossier,Louisiana,Hot-Humid
+790,22017,Caddo,Louisiana,Hot-Humid
+791,22019,Calcasieu,Louisiana,Hot-Humid
+792,22021,Caldwell,Louisiana,Hot-Humid
+793,22023,Cameron,Louisiana,Hot-Humid
+794,22025,Catahoula,Louisiana,Hot-Humid
+795,22027,Claiborne,Louisiana,Hot-Humid
+796,22029,Concordia,Louisiana,Hot-Humid
+797,22031,De Soto,Louisiana,Hot-Humid
+798,22033,East Baton Rouge,Louisiana,Hot-Humid
+799,22035,East Carroll,Louisiana,Mixed-Humid
+800,22037,East Feliciana,Louisiana,Hot-Humid
+801,22039,Evangeline,Louisiana,Hot-Humid
+802,22041,Franklin,Louisiana,Hot-Humid
+803,22043,Grant,Louisiana,Hot-Humid
+804,22045,Iberia,Louisiana,Hot-Humid
+805,22047,Iberville,Louisiana,Hot-Humid
+806,22049,Jackson,Louisiana,Hot-Humid
+807,22051,Jefferson,Louisiana,Hot-Humid
+808,22053,Jefferson Davis,Louisiana,Hot-Humid
+809,22055,Lafayette,Louisiana,Hot-Humid
+810,22057,Lafourche,Louisiana,Hot-Humid
+811,22059,La Salle,Louisiana,Hot-Humid
+812,22061,Lincoln,Louisiana,Hot-Humid
+813,22063,Livingston,Louisiana,Hot-Humid
+814,22065,Madison,Louisiana,Hot-Humid
+815,22067,Morehouse,Louisiana,Mixed-Humid
+816,22069,Natchitoches,Louisiana,Hot-Humid
+817,22071,Orleans,Louisiana,Hot-Humid
+818,22073,Ouachita,Louisiana,Hot-Humid
+819,22075,Plaquemines,Louisiana,Hot-Humid
+820,22077,Pointe Coupee,Louisiana,Hot-Humid
+821,22079,Rapides,Louisiana,Hot-Humid
+822,22081,Red River,Louisiana,Hot-Humid
+823,22083,Richland,Louisiana,Hot-Humid
+824,22085,Sabine,Louisiana,Hot-Humid
+825,22087,St. Bernard,Louisiana,Hot-Humid
+826,22089,St. Charles,Louisiana,Hot-Humid
+827,22091,St. Helena,Louisiana,Hot-Humid
+828,22093,St. James,Louisiana,Hot-Humid
+829,22095,St. John the Baptist,Louisiana,Hot-Humid
+830,22097,St. Landry,Louisiana,Hot-Humid
+831,22099,St. Martin,Louisiana,Hot-Humid
+832,22101,St. Mary,Louisiana,Hot-Humid
+833,22103,St. Tammany,Louisiana,Hot-Humid
+834,22105,Tangipahoa,Louisiana,Hot-Humid
+835,22109,Terrebonne,Louisiana,Hot-Humid
+836,22111,Union,Louisiana,Hot-Humid
+837,22113,Vermilion,Louisiana,Hot-Humid
+838,22115,Vernon,Louisiana,Hot-Humid
+839,22117,Washington,Louisiana,Hot-Humid
+840,22119,Webster,Louisiana,Hot-Humid
+841,22121,West Baton Rouge,Louisiana,Hot-Humid
+842,22123,West Carroll,Louisiana,Mixed-Humid
+843,22125,West Feliciana,Louisiana,Hot-Humid
+844,22127,Winn,Louisiana,Hot-Humid
+845,23001,Androscoggin,Maine,Cold/Very cold
+846,23003,Aroostook,Maine,Cold/Very cold
+847,23005,Cumberland,Maine,Cold/Very cold
+848,23007,Franklin,Maine,Cold/Very cold
+849,23009,Hancock,Maine,Cold/Very cold
+850,23011,Kennebec,Maine,Cold/Very cold
+851,23017,Oxford,Maine,Cold/Very cold
+852,23019,Penobscot,Maine,Cold/Very cold
+853,23023,Sagadahoc,Maine,Cold/Very cold
+854,23025,Somerset,Maine,Cold/Very cold
+855,23031,York,Maine,Cold/Very cold
+856,24001,Allegany,Maryland,Mixed-Humid
+857,24003,Anne Arundel,Maryland,Mixed-Humid
+858,24005,Baltimore County,Maryland,Mixed-Humid
+859,24009,Calvert,Maryland,Mixed-Humid
+860,24011,Caroline,Maryland,Mixed-Humid
+861,24013,Carroll,Maryland,Mixed-Humid
+862,24015,Cecil,Maryland,Mixed-Humid
+863,24017,Charles,Maryland,Mixed-Humid
+864,24019,Dorchester,Maryland,Mixed-Humid
+865,24021,Frederick,Maryland,Mixed-Humid
+866,24023,Garrett,Maryland,Cold/Very cold
+867,24025,Harford,Maryland,Mixed-Humid
+868,24027,Howard,Maryland,Mixed-Humid
+869,24029,Kent,Maryland,Mixed-Humid
+870,24031,Montgomery,Maryland,Mixed-Humid
+871,24033,Prince George's,Maryland,Mixed-Humid
+872,24035,Queen Anne's,Maryland,Mixed-Humid
+873,24037,St. Mary's,Maryland,Mixed-Humid
+874,24039,Somerset,Maryland,Mixed-Humid
+875,24041,Talbot,Maryland,Mixed-Humid
+876,24043,Washington,Maryland,Mixed-Humid
+877,24045,Wicomico,Maryland,Mixed-Humid
+878,24047,Worcester,Maryland,Mixed-Humid
+879,24510,Baltimore City,Maryland,Mixed-Humid
+880,25001,Barnstable,Massachusetts,Cold/Very cold
+881,25003,Berkshire,Massachusetts,Cold/Very cold
+882,25005,Bristol,Massachusetts,Cold/Very cold
+883,25009,Essex,Massachusetts,Cold/Very cold
+884,25011,Franklin,Massachusetts,Cold/Very cold
+885,25013,Hampden,Massachusetts,Cold/Very cold
+886,25015,Hampshire,Massachusetts,Cold/Very cold
+887,25017,Middlesex,Massachusetts,Cold/Very cold
+888,25021,Norfolk,Massachusetts,Cold/Very cold
+889,25023,Plymouth,Massachusetts,Cold/Very cold
+890,25025,Suffolk,Massachusetts,Cold/Very cold
+891,25027,Worcester,Massachusetts,Cold/Very cold
+892,26005,Allegan,Michigan,Cold/Very cold
+893,26007,Alpena,Michigan,Cold/Very cold
+894,26009,Antrim,Michigan,Cold/Very cold
+895,26011,Arenac,Michigan,Cold/Very cold
+896,26013,Baraga,Michigan,Cold/Very cold
+897,26015,Barry,Michigan,Cold/Very cold
+898,26017,Bay,Michigan,Cold/Very cold
+899,26019,Benzie,Michigan,Cold/Very cold
+900,26021,Berrien,Michigan,Cold/Very cold
+901,26023,Branch,Michigan,Cold/Very cold
+902,26025,Calhoun,Michigan,Cold/Very cold
+903,26027,Cass,Michigan,Cold/Very cold
+904,26029,Charlevoix,Michigan,Cold/Very cold
+905,26031,Cheboygan,Michigan,Cold/Very cold
+906,26033,Chippewa,Michigan,Cold/Very cold
+907,26035,Clare,Michigan,Cold/Very cold
+908,26037,Clinton,Michigan,Cold/Very cold
+909,26039,Crawford,Michigan,Cold/Very cold
+910,26041,Delta,Michigan,Cold/Very cold
+911,26043,Dickinson,Michigan,Cold/Very cold
+912,26045,Eaton,Michigan,Cold/Very cold
+913,26047,Emmet,Michigan,Cold/Very cold
+914,26049,Genesee,Michigan,Cold/Very cold
+915,26051,Gladwin,Michigan,Cold/Very cold
+916,26053,Gogebic,Michigan,Cold/Very cold
+917,26055,Grand Traverse,Michigan,Cold/Very cold
+918,26057,Gratiot,Michigan,Cold/Very cold
+919,26059,Hillsdale,Michigan,Cold/Very cold
+920,26061,Houghton,Michigan,Cold/Very cold
+921,26063,Huron,Michigan,Cold/Very cold
+922,26065,Ingham,Michigan,Cold/Very cold
+923,26067,Ionia,Michigan,Cold/Very cold
+924,26069,Iosco,Michigan,Cold/Very cold
+925,26071,Iron,Michigan,Cold/Very cold
+926,26073,Isabella,Michigan,Cold/Very cold
+927,26075,Jackson,Michigan,Cold/Very cold
+928,26077,Kalamazoo,Michigan,Cold/Very cold
+929,26079,Kalkaska,Michigan,Cold/Very cold
+930,26081,Kent,Michigan,Cold/Very cold
+931,26087,Lapeer,Michigan,Cold/Very cold
+932,26089,Leelanau,Michigan,Cold/Very cold
+933,26091,Lenawee,Michigan,Cold/Very cold
+934,26093,Livingston,Michigan,Cold/Very cold
+935,26099,Macomb,Michigan,Cold/Very cold
+936,26101,Manistee,Michigan,Cold/Very cold
+937,26103,Marquette,Michigan,Cold/Very cold
+938,26105,Mason,Michigan,Cold/Very cold
+939,26107,Mecosta,Michigan,Cold/Very cold
+940,26109,Menominee,Michigan,Cold/Very cold
+941,26111,Midland,Michigan,Cold/Very cold
+942,26113,Missaukee,Michigan,Cold/Very cold
+943,26115,Monroe,Michigan,Cold/Very cold
+944,26117,Montcalm,Michigan,Cold/Very cold
+945,26121,Muskegon,Michigan,Cold/Very cold
+946,26123,Newaygo,Michigan,Cold/Very cold
+947,26125,Oakland,Michigan,Cold/Very cold
+948,26127,Oceana,Michigan,Cold/Very cold
+949,26129,Ogemaw,Michigan,Cold/Very cold
+950,26133,Osceola,Michigan,Cold/Very cold
+951,26137,Otsego,Michigan,Cold/Very cold
+952,26139,Ottawa,Michigan,Cold/Very cold
+953,26141,Presque Isle,Michigan,Cold/Very cold
+954,26143,Roscommon,Michigan,Cold/Very cold
+955,26145,Saginaw,Michigan,Cold/Very cold
+956,26147,St. Clair,Michigan,Cold/Very cold
+957,26149,St. Joseph,Michigan,Cold/Very cold
+958,26151,Sanilac,Michigan,Cold/Very cold
+959,26155,Shiawassee,Michigan,Cold/Very cold
+960,26157,Tuscola,Michigan,Cold/Very cold
+961,26159,Van Buren,Michigan,Cold/Very cold
+962,26161,Washtenaw,Michigan,Cold/Very cold
+963,26163,Wayne,Michigan,Cold/Very cold
+964,26165,Wexford,Michigan,Cold/Very cold
+965,27001,Aitkin,Minnesota,Cold/Very cold
+966,27003,Anoka,Minnesota,Cold/Very cold
+967,27005,Becker,Minnesota,Cold/Very cold
+968,27007,Beltrami,Minnesota,Cold/Very cold
+969,27009,Benton,Minnesota,Cold/Very cold
+970,27011,Big Stone,Minnesota,Cold/Very cold
+971,27013,Blue Earth,Minnesota,Cold/Very cold
+972,27015,Brown,Minnesota,Cold/Very cold
+973,27017,Carlton,Minnesota,Cold/Very cold
+974,27019,Carver,Minnesota,Cold/Very cold
+975,27021,Cass,Minnesota,Cold/Very cold
+976,27023,Chippewa,Minnesota,Cold/Very cold
+977,27025,Chisago,Minnesota,Cold/Very cold
+978,27027,Clay,Minnesota,Cold/Very cold
+979,27029,Clearwater,Minnesota,Cold/Very cold
+980,27033,Cottonwood,Minnesota,Cold/Very cold
+981,27035,Crow Wing,Minnesota,Cold/Very cold
+982,27037,Dakota,Minnesota,Cold/Very cold
+983,27039,Dodge,Minnesota,Cold/Very cold
+984,27041,Douglas,Minnesota,Cold/Very cold
+985,27043,Faribault,Minnesota,Cold/Very cold
+986,27045,Fillmore,Minnesota,Cold/Very cold
+987,27047,Freeborn,Minnesota,Cold/Very cold
+988,27049,Goodhue,Minnesota,Cold/Very cold
+989,27053,Hennepin,Minnesota,Cold/Very cold
+990,27055,Houston,Minnesota,Cold/Very cold
+991,27057,Hubbard,Minnesota,Cold/Very cold
+992,27059,Isanti,Minnesota,Cold/Very cold
+993,27061,Itasca,Minnesota,Cold/Very cold
+994,27063,Jackson,Minnesota,Cold/Very cold
+995,27065,Kanabec,Minnesota,Cold/Very cold
+996,27067,Kandiyohi,Minnesota,Cold/Very cold
+997,27071,Koochiching,Minnesota,Cold/Very cold
+998,27073,Lac qui Parle,Minnesota,Cold/Very cold
+999,27075,Lake,Minnesota,Cold/Very cold
+1000,27079,Le Sueur,Minnesota,Cold/Very cold
+1001,27081,Lincoln,Minnesota,Cold/Very cold
+1002,27083,Lyon,Minnesota,Cold/Very cold
+1003,27085,McLeod,Minnesota,Cold/Very cold
+1004,27087,Mahnomen,Minnesota,Cold/Very cold
+1005,27089,Marshall,Minnesota,Cold/Very cold
+1006,27091,Martin,Minnesota,Cold/Very cold
+1007,27093,Meeker,Minnesota,Cold/Very cold
+1008,27095,Mille Lacs,Minnesota,Cold/Very cold
+1009,27097,Morrison,Minnesota,Cold/Very cold
+1010,27099,Mower,Minnesota,Cold/Very cold
+1011,27101,Murray,Minnesota,Cold/Very cold
+1012,27103,Nicollet,Minnesota,Cold/Very cold
+1013,27105,Nobles,Minnesota,Cold/Very cold
+1014,27107,Norman,Minnesota,Cold/Very cold
+1015,27109,Olmsted,Minnesota,Cold/Very cold
+1016,27111,Otter Tail,Minnesota,Cold/Very cold
+1017,27113,Pennington,Minnesota,Cold/Very cold
+1018,27115,Pine,Minnesota,Cold/Very cold
+1019,27117,Pipestone,Minnesota,Cold/Very cold
+1020,27119,Polk,Minnesota,Cold/Very cold
+1021,27121,Pope,Minnesota,Cold/Very cold
+1022,27123,Ramsey,Minnesota,Cold/Very cold
+1023,27127,Redwood,Minnesota,Cold/Very cold
+1024,27129,Renville,Minnesota,Cold/Very cold
+1025,27131,Rice,Minnesota,Cold/Very cold
+1026,27133,Rock,Minnesota,Cold/Very cold
+1027,27135,Roseau,Minnesota,Cold/Very cold
+1028,27137,St. Louis,Minnesota,Cold/Very cold
+1029,27139,Scott,Minnesota,Cold/Very cold
+1030,27141,Sherburne,Minnesota,Cold/Very cold
+1031,27143,Sibley,Minnesota,Cold/Very cold
+1032,27145,Stearns,Minnesota,Cold/Very cold
+1033,27147,Steele,Minnesota,Cold/Very cold
+1034,27149,Stevens,Minnesota,Cold/Very cold
+1035,27151,Swift,Minnesota,Cold/Very cold
+1036,27153,Todd,Minnesota,Cold/Very cold
+1037,27157,Wabasha,Minnesota,Cold/Very cold
+1038,27159,Wadena,Minnesota,Cold/Very cold
+1039,27161,Waseca,Minnesota,Cold/Very cold
+1040,27163,Washington,Minnesota,Cold/Very cold
+1041,27165,Watonwan,Minnesota,Cold/Very cold
+1042,27167,Wilkin,Minnesota,Cold/Very cold
+1043,27169,Winona,Minnesota,Cold/Very cold
+1044,27171,Wright,Minnesota,Cold/Very cold
+1045,27173,Yellow Medicine,Minnesota,Cold/Very cold
+1046,28001,Adams,Mississippi,Hot-Humid
+1047,28003,Alcorn,Mississippi,Mixed-Humid
+1048,28005,Amite,Mississippi,Hot-Humid
+1049,28007,Attala,Mississippi,Mixed-Humid
+1050,28009,Benton,Mississippi,Mixed-Humid
+1051,28011,Bolivar,Mississippi,Mixed-Humid
+1052,28013,Calhoun,Mississippi,Mixed-Humid
+1053,28015,Carroll,Mississippi,Mixed-Humid
+1054,28017,Chickasaw,Mississippi,Mixed-Humid
+1055,28019,Choctaw,Mississippi,Mixed-Humid
+1056,28021,Claiborne,Mississippi,Hot-Humid
+1057,28023,Clarke,Mississippi,Mixed-Humid
+1058,28025,Clay,Mississippi,Mixed-Humid
+1059,28027,Coahoma,Mississippi,Mixed-Humid
+1060,28029,Copiah,Mississippi,Hot-Humid
+1061,28031,Covington,Mississippi,Hot-Humid
+1062,28033,DeSoto,Mississippi,Mixed-Humid
+1063,28035,Forrest,Mississippi,Hot-Humid
+1064,28037,Franklin,Mississippi,Hot-Humid
+1065,28039,George,Mississippi,Hot-Humid
+1066,28041,Greene,Mississippi,Hot-Humid
+1067,28043,Grenada,Mississippi,Mixed-Humid
+1068,28045,Hancock,Mississippi,Hot-Humid
+1069,28047,Harrison,Mississippi,Hot-Humid
+1070,28049,Hinds,Mississippi,Hot-Humid
+1071,28051,Holmes,Mississippi,Mixed-Humid
+1072,28053,Humphreys,Mississippi,Mixed-Humid
+1073,28057,Itawamba,Mississippi,Mixed-Humid
+1074,28059,Jackson,Mississippi,Hot-Humid
+1075,28061,Jasper,Mississippi,Mixed-Humid
+1076,28063,Jefferson,Mississippi,Hot-Humid
+1077,28065,Jefferson Davis,Mississippi,Hot-Humid
+1078,28067,Jones,Mississippi,Hot-Humid
+1079,28069,Kemper,Mississippi,Mixed-Humid
+1080,28071,Lafayette,Mississippi,Mixed-Humid
+1081,28073,Lamar,Mississippi,Hot-Humid
+1082,28075,Lauderdale,Mississippi,Mixed-Humid
+1083,28077,Lawrence,Mississippi,Hot-Humid
+1084,28079,Leake,Mississippi,Mixed-Humid
+1085,28081,Lee,Mississippi,Mixed-Humid
+1086,28083,Leflore,Mississippi,Mixed-Humid
+1087,28085,Lincoln,Mississippi,Hot-Humid
+1088,28087,Lowndes,Mississippi,Mixed-Humid
+1089,28089,Madison,Mississippi,Mixed-Humid
+1090,28091,Marion,Mississippi,Hot-Humid
+1091,28093,Marshall,Mississippi,Mixed-Humid
+1092,28095,Monroe,Mississippi,Mixed-Humid
+1093,28097,Montgomery,Mississippi,Mixed-Humid
+1094,28099,Neshoba,Mississippi,Mixed-Humid
+1095,28101,Newton,Mississippi,Mixed-Humid
+1096,28103,Noxubee,Mississippi,Mixed-Humid
+1097,28105,Oktibbeha,Mississippi,Mixed-Humid
+1098,28107,Panola,Mississippi,Mixed-Humid
+1099,28109,Pearl River,Mississippi,Hot-Humid
+1100,28111,Perry,Mississippi,Hot-Humid
+1101,28113,Pike,Mississippi,Hot-Humid
+1102,28115,Pontotoc,Mississippi,Mixed-Humid
+1103,28117,Prentiss,Mississippi,Mixed-Humid
+1104,28119,Quitman,Mississippi,Mixed-Humid
+1105,28121,Rankin,Mississippi,Hot-Humid
+1106,28123,Scott,Mississippi,Mixed-Humid
+1107,28125,Sharkey,Mississippi,Mixed-Humid
+1108,28127,Simpson,Mississippi,Hot-Humid
+1109,28129,Smith,Mississippi,Hot-Humid
+1110,28131,Stone,Mississippi,Hot-Humid
+1111,28133,Sunflower,Mississippi,Mixed-Humid
+1112,28135,Tallahatchie,Mississippi,Mixed-Humid
+1113,28137,Tate,Mississippi,Mixed-Humid
+1114,28139,Tippah,Mississippi,Mixed-Humid
+1115,28141,Tishomingo,Mississippi,Mixed-Humid
+1116,28143,Tunica,Mississippi,Mixed-Humid
+1117,28145,Union,Mississippi,Mixed-Humid
+1118,28147,Walthall,Mississippi,Hot-Humid
+1119,28149,Warren,Mississippi,Hot-Humid
+1120,28151,Washington,Mississippi,Mixed-Humid
+1121,28153,Wayne,Mississippi,Hot-Humid
+1122,28155,Webster,Mississippi,Mixed-Humid
+1123,28157,Wilkinson,Mississippi,Hot-Humid
+1124,28159,Winston,Mississippi,Mixed-Humid
+1125,28161,Yalobusha,Mississippi,Mixed-Humid
+1126,28163,Yazoo,Mississippi,Mixed-Humid
+1127,29001,Adair,Missouri,Cold/Very cold
+1128,29003,Andrew,Missouri,Cold/Very cold
+1129,29007,Audrain,Missouri,Mixed-Humid
+1130,29009,Barry,Missouri,Mixed-Humid
+1131,29011,Barton,Missouri,Mixed-Humid
+1132,29013,Bates,Missouri,Mixed-Humid
+1133,29015,Benton,Missouri,Mixed-Humid
+1134,29017,Bollinger,Missouri,Mixed-Humid
+1135,29019,Boone,Missouri,Mixed-Humid
+1136,29021,Buchanan,Missouri,Cold/Very cold
+1137,29023,Butler,Missouri,Mixed-Humid
+1138,29025,Caldwell,Missouri,Cold/Very cold
+1139,29027,Callaway,Missouri,Mixed-Humid
+1140,29029,Camden,Missouri,Mixed-Humid
+1141,29031,Cape Girardeau,Missouri,Mixed-Humid
+1142,29033,Carroll,Missouri,Mixed-Humid
+1143,29037,Cass,Missouri,Mixed-Humid
+1144,29039,Cedar,Missouri,Mixed-Humid
+1145,29043,Christian,Missouri,Mixed-Humid
+1146,29047,Clay,Missouri,Mixed-Humid
+1147,29049,Clinton,Missouri,Cold/Very cold
+1148,29051,Cole,Missouri,Mixed-Humid
+1149,29053,Cooper,Missouri,Mixed-Humid
+1150,29055,Crawford,Missouri,Mixed-Humid
+1151,29059,Dallas,Missouri,Mixed-Humid
+1152,29061,Daviess,Missouri,Cold/Very cold
+1153,29063,DeKalb,Missouri,Cold/Very cold
+1154,29065,Dent,Missouri,Mixed-Humid
+1155,29067,Douglas,Missouri,Mixed-Humid
+1156,29069,Dunklin,Missouri,Mixed-Humid
+1157,29071,Franklin,Missouri,Mixed-Humid
+1158,29073,Gasconade,Missouri,Mixed-Humid
+1159,29075,Gentry,Missouri,Cold/Very cold
+1160,29077,Greene,Missouri,Mixed-Humid
+1161,29079,Grundy,Missouri,Cold/Very cold
+1162,29081,Harrison,Missouri,Cold/Very cold
+1163,29083,Henry,Missouri,Mixed-Humid
+1164,29085,Hickory,Missouri,Mixed-Humid
+1165,29089,Howard,Missouri,Mixed-Humid
+1166,29091,Howell,Missouri,Mixed-Humid
+1167,29093,Iron,Missouri,Mixed-Humid
+1168,29095,Jackson,Missouri,Mixed-Humid
+1169,29097,Jasper,Missouri,Mixed-Humid
+1170,29099,Jefferson,Missouri,Mixed-Humid
+1171,29101,Johnson,Missouri,Mixed-Humid
+1172,29105,Laclede,Missouri,Mixed-Humid
+1173,29107,Lafayette,Missouri,Mixed-Humid
+1174,29109,Lawrence,Missouri,Mixed-Humid
+1175,29111,Lewis,Missouri,Cold/Very cold
+1176,29113,Lincoln,Missouri,Mixed-Humid
+1177,29115,Linn,Missouri,Cold/Very cold
+1178,29117,Livingston,Missouri,Cold/Very cold
+1179,29119,McDonald,Missouri,Mixed-Humid
+1180,29121,Macon,Missouri,Cold/Very cold
+1181,29123,Madison,Missouri,Mixed-Humid
+1182,29125,Maries,Missouri,Mixed-Humid
+1183,29127,Marion,Missouri,Cold/Very cold
+1184,29131,Miller,Missouri,Mixed-Humid
+1185,29133,Mississippi,Missouri,Mixed-Humid
+1186,29135,Moniteau,Missouri,Mixed-Humid
+1187,29137,Monroe,Missouri,Mixed-Humid
+1188,29139,Montgomery,Missouri,Mixed-Humid
+1189,29141,Morgan,Missouri,Mixed-Humid
+1190,29143,New Madrid,Missouri,Mixed-Humid
+1191,29145,Newton,Missouri,Mixed-Humid
+1192,29147,Nodaway,Missouri,Cold/Very cold
+1193,29149,Oregon,Missouri,Mixed-Humid
+1194,29151,Osage,Missouri,Mixed-Humid
+1195,29155,Pemiscot,Missouri,Mixed-Humid
+1196,29157,Perry,Missouri,Mixed-Humid
+1197,29159,Pettis,Missouri,Mixed-Humid
+1198,29161,Phelps,Missouri,Mixed-Humid
+1199,29163,Pike,Missouri,Cold/Very cold
+1200,29165,Platte,Missouri,Mixed-Humid
+1201,29167,Polk,Missouri,Mixed-Humid
+1202,29169,Pulaski,Missouri,Mixed-Humid
+1203,29173,Ralls,Missouri,Cold/Very cold
+1204,29175,Randolph,Missouri,Mixed-Humid
+1205,29177,Ray,Missouri,Mixed-Humid
+1206,29181,Ripley,Missouri,Mixed-Humid
+1207,29183,St. Charles,Missouri,Mixed-Humid
+1208,29185,St. Clair,Missouri,Mixed-Humid
+1209,29186,Ste. Genevieve,Missouri,Mixed-Humid
+1210,29187,St. Francois,Missouri,Mixed-Humid
+1211,29189,St. Louis County,Missouri,Mixed-Humid
+1212,29195,Saline,Missouri,Mixed-Humid
+1213,29201,Scott,Missouri,Mixed-Humid
+1214,29207,Stoddard,Missouri,Mixed-Humid
+1215,29209,Stone,Missouri,Mixed-Humid
+1216,29211,Sullivan,Missouri,Cold/Very cold
+1217,29213,Taney,Missouri,Mixed-Humid
+1218,29215,Texas,Missouri,Mixed-Humid
+1219,29217,Vernon,Missouri,Mixed-Humid
+1220,29219,Warren,Missouri,Mixed-Humid
+1221,29221,Washington,Missouri,Mixed-Humid
+1222,29223,Wayne,Missouri,Mixed-Humid
+1223,29225,Webster,Missouri,Mixed-Humid
+1224,29229,Wright,Missouri,Mixed-Humid
+1225,29510,St. Louis city,Missouri,Mixed-Humid
+1226,30001,Beaverhead,Montana,Cold/Very cold
+1227,30003,Big Horn,Montana,Cold/Very cold
+1228,30005,Blaine,Montana,Cold/Very cold
+1229,30009,Carbon,Montana,Cold/Very cold
+1230,30013,Cascade,Montana,Cold/Very cold
+1231,30017,Custer,Montana,Cold/Very cold
+1232,30021,Dawson,Montana,Cold/Very cold
+1233,30023,Deer Lodge,Montana,Cold/Very cold
+1234,30027,Fergus,Montana,Cold/Very cold
+1235,30029,Flathead,Montana,Cold/Very cold
+1236,30031,Gallatin,Montana,Cold/Very cold
+1237,30035,Glacier,Montana,Cold/Very cold
+1238,30041,Hill,Montana,Cold/Very cold
+1239,30043,Jefferson,Montana,Cold/Very cold
+1240,30047,Lake,Montana,Cold/Very cold
+1241,30049,Lewis and Clark,Montana,Cold/Very cold
+1242,30053,Lincoln,Montana,Cold/Very cold
+1243,30057,Madison,Montana,Cold/Very cold
+1244,30063,Missoula,Montana,Cold/Very cold
+1245,30067,Park,Montana,Cold/Very cold
+1246,30071,Phillips,Montana,Cold/Very cold
+1247,30077,Powell,Montana,Cold/Very cold
+1248,30081,Ravalli,Montana,Cold/Very cold
+1249,30083,Richland,Montana,Cold/Very cold
+1250,30085,Roosevelt,Montana,Cold/Very cold
+1251,30087,Rosebud,Montana,Cold/Very cold
+1252,30089,Sanders,Montana,Cold/Very cold
+1253,30093,Silver Bow,Montana,Cold/Very cold
+1254,30095,Stillwater,Montana,Cold/Very cold
+1255,30101,Toole,Montana,Cold/Very cold
+1256,30105,Valley,Montana,Cold/Very cold
+1257,30111,Yellowstone,Montana,Cold/Very cold
+1258,31001,Adams,Nebraska,Cold/Very cold
+1259,31003,Antelope,Nebraska,Cold/Very cold
+1260,31011,Boone,Nebraska,Cold/Very cold
+1261,31013,Box Butte,Nebraska,Cold/Very cold
+1262,31019,Buffalo,Nebraska,Cold/Very cold
+1263,31021,Burt,Nebraska,Cold/Very cold
+1264,31023,Butler,Nebraska,Cold/Very cold
+1265,31025,Cass,Nebraska,Cold/Very cold
+1266,31027,Cedar,Nebraska,Cold/Very cold
+1267,31033,Cheyenne,Nebraska,Cold/Very cold
+1268,31035,Clay,Nebraska,Cold/Very cold
+1269,31037,Colfax,Nebraska,Cold/Very cold
+1270,31039,Cuming,Nebraska,Cold/Very cold
+1271,31041,Custer,Nebraska,Cold/Very cold
+1272,31043,Dakota,Nebraska,Cold/Very cold
+1273,31045,Dawes,Nebraska,Cold/Very cold
+1274,31047,Dawson,Nebraska,Cold/Very cold
+1275,31051,Dixon,Nebraska,Cold/Very cold
+1276,31053,Dodge,Nebraska,Cold/Very cold
+1277,31055,Douglas,Nebraska,Cold/Very cold
+1278,31059,Fillmore,Nebraska,Cold/Very cold
+1279,31067,Gage,Nebraska,Cold/Very cold
+1280,31079,Hall,Nebraska,Cold/Very cold
+1281,31081,Hamilton,Nebraska,Cold/Very cold
+1282,31089,Holt,Nebraska,Cold/Very cold
+1283,31093,Howard,Nebraska,Cold/Very cold
+1284,31095,Jefferson,Nebraska,Cold/Very cold
+1285,31097,Johnson,Nebraska,Cold/Very cold
+1286,31099,Kearney,Nebraska,Cold/Very cold
+1287,31101,Keith,Nebraska,Cold/Very cold
+1288,31107,Knox,Nebraska,Cold/Very cold
+1289,31109,Lancaster,Nebraska,Cold/Very cold
+1290,31111,Lincoln,Nebraska,Cold/Very cold
+1291,31119,Madison,Nebraska,Cold/Very cold
+1292,31121,Merrick,Nebraska,Cold/Very cold
+1293,31123,Morrill,Nebraska,Cold/Very cold
+1294,31127,Nemaha,Nebraska,Cold/Very cold
+1295,31131,Otoe,Nebraska,Cold/Very cold
+1296,31137,Phelps,Nebraska,Cold/Very cold
+1297,31139,Pierce,Nebraska,Cold/Very cold
+1298,31141,Platte,Nebraska,Cold/Very cold
+1299,31145,Red Willow,Nebraska,Cold/Very cold
+1300,31147,Richardson,Nebraska,Cold/Very cold
+1301,31151,Saline,Nebraska,Cold/Very cold
+1302,31153,Sarpy,Nebraska,Cold/Very cold
+1303,31155,Saunders,Nebraska,Cold/Very cold
+1304,31157,Scotts Bluff,Nebraska,Cold/Very cold
+1305,31159,Seward,Nebraska,Cold/Very cold
+1306,31173,Thurston,Nebraska,Cold/Very cold
+1307,31177,Washington,Nebraska,Cold/Very cold
+1308,31179,Wayne,Nebraska,Cold/Very cold
+1309,31185,York,Nebraska,Cold/Very cold
+1310,32001,Churchill,Nevada,Cold/Very cold
+1311,32003,Clark,Nevada,Hot-Dry/Mixed-Dry
+1312,32005,Douglas,Nevada,Cold/Very cold
+1313,32007,Elko,Nevada,Cold/Very cold
+1314,32013,Humboldt,Nevada,Cold/Very cold
+1315,32019,Lyon,Nevada,Cold/Very cold
+1316,32023,Nye,Nevada,Cold/Very cold
+1317,32027,Pershing,Nevada,Cold/Very cold
+1318,32031,Washoe,Nevada,Cold/Very cold
+1319,32033,White Pine,Nevada,Cold/Very cold
+1320,32510,Carson City,Nevada,Cold/Very cold
+1321,33001,Belknap,New Hampshire,Cold/Very cold
+1322,33003,Carroll,New Hampshire,Cold/Very cold
+1323,33005,Cheshire,New Hampshire,Cold/Very cold
+1324,33007,Coos,New Hampshire,Cold/Very cold
+1325,33009,Grafton,New Hampshire,Cold/Very cold
+1326,33011,Hillsborough,New Hampshire,Cold/Very cold
+1327,33013,Merrimack,New Hampshire,Cold/Very cold
+1328,33015,Rockingham,New Hampshire,Cold/Very cold
+1329,33017,Strafford,New Hampshire,Cold/Very cold
+1330,33019,Sullivan,New Hampshire,Cold/Very cold
+1331,34001,Atlantic,New Jersey,Mixed-Humid
+1332,34003,Bergen,New Jersey,Cold/Very cold
+1333,34005,Burlington,New Jersey,Mixed-Humid
+1334,34007,Camden,New Jersey,Mixed-Humid
+1335,34009,Cape May,New Jersey,Mixed-Humid
+1336,34011,Cumberland,New Jersey,Mixed-Humid
+1337,34013,Essex,New Jersey,Mixed-Humid
+1338,34015,Gloucester,New Jersey,Mixed-Humid
+1339,34017,Hudson,New Jersey,Mixed-Humid
+1340,34019,Hunterdon,New Jersey,Cold/Very cold
+1341,34021,Mercer,New Jersey,Cold/Very cold
+1342,34023,Middlesex,New Jersey,Mixed-Humid
+1343,34025,Monmouth,New Jersey,Mixed-Humid
+1344,34027,Morris,New Jersey,Cold/Very cold
+1345,34029,Ocean,New Jersey,Mixed-Humid
+1346,34031,Passaic,New Jersey,Cold/Very cold
+1347,34033,Salem,New Jersey,Mixed-Humid
+1348,34035,Somerset,New Jersey,Cold/Very cold
+1349,34037,Sussex,New Jersey,Cold/Very cold
+1350,34039,Union,New Jersey,Mixed-Humid
+1351,34041,Warren,New Jersey,Cold/Very cold
+1352,35001,Bernalillo,New Mexico,Hot-Dry/Mixed-Dry
+1353,35005,Chaves,New Mexico,Hot-Dry/Mixed-Dry
+1354,35006,Cibola,New Mexico,Cold/Very cold
+1355,35007,Colfax,New Mexico,Cold/Very cold
+1356,35009,Curry,New Mexico,Hot-Dry/Mixed-Dry
+1357,35013,DoÃ±a Ana,New Mexico,Hot-Dry/Mixed-Dry
+1358,35015,Eddy,New Mexico,Hot-Dry/Mixed-Dry
+1359,35017,Grant,New Mexico,Hot-Dry/Mixed-Dry
+1360,35025,Lea,New Mexico,Hot-Dry/Mixed-Dry
+1361,35027,Lincoln,New Mexico,Hot-Dry/Mixed-Dry
+1362,35029,Luna,New Mexico,Hot-Dry/Mixed-Dry
+1363,35031,McKinley,New Mexico,Cold/Very cold
+1364,35035,Otero,New Mexico,Hot-Dry/Mixed-Dry
+1365,35039,Rio Arriba,New Mexico,Cold/Very cold
+1366,35041,Roosevelt,New Mexico,Hot-Dry/Mixed-Dry
+1367,35043,Sandoval,New Mexico,Cold/Very cold
+1368,35045,San Juan,New Mexico,Cold/Very cold
+1369,35047,San Miguel,New Mexico,Cold/Very cold
+1370,35049,Santa Fe,New Mexico,Cold/Very cold
+1371,35051,Sierra,New Mexico,Hot-Dry/Mixed-Dry
+1372,35053,Socorro,New Mexico,Hot-Dry/Mixed-Dry
+1373,35055,Taos,New Mexico,Cold/Very cold
+1374,35057,Torrance,New Mexico,Cold/Very cold
+1375,35061,Valencia,New Mexico,Hot-Dry/Mixed-Dry
+1376,36001,Albany,New York,Cold/Very cold
+1377,36003,Allegany,New York,Cold/Very cold
+1378,36005,Bronx,New York,Mixed-Humid
+1379,36007,Broome,New York,Cold/Very cold
+1380,36009,Cattaraugus,New York,Cold/Very cold
+1381,36011,Cayuga,New York,Cold/Very cold
+1382,36013,Chautauqua,New York,Cold/Very cold
+1383,36015,Chemung,New York,Cold/Very cold
+1384,36017,Chenango,New York,Cold/Very cold
+1385,36019,Clinton,New York,Cold/Very cold
+1386,36021,Columbia,New York,Cold/Very cold
+1387,36023,Cortland,New York,Cold/Very cold
+1388,36025,Delaware,New York,Cold/Very cold
+1389,36027,Dutchess,New York,Cold/Very cold
+1390,36029,Erie,New York,Cold/Very cold
+1391,36031,Essex,New York,Cold/Very cold
+1392,36033,Franklin,New York,Cold/Very cold
+1393,36035,Fulton,New York,Cold/Very cold
+1394,36037,Genesee,New York,Cold/Very cold
+1395,36039,Greene,New York,Cold/Very cold
+1396,36043,Herkimer,New York,Cold/Very cold
+1397,36045,Jefferson,New York,Cold/Very cold
+1398,36047,Kings,New York,Mixed-Humid
+1399,36049,Lewis,New York,Cold/Very cold
+1400,36051,Livingston,New York,Cold/Very cold
+1401,36053,Madison,New York,Cold/Very cold
+1402,36055,Monroe,New York,Cold/Very cold
+1403,36057,Montgomery,New York,Cold/Very cold
+1404,36059,Nassau,New York,Mixed-Humid
+1405,36061,New York,New York,Mixed-Humid
+1406,36063,Niagara,New York,Cold/Very cold
+1407,36065,Oneida,New York,Cold/Very cold
+1408,36067,Onondaga,New York,Cold/Very cold
+1409,36069,Ontario,New York,Cold/Very cold
+1410,36071,Orange,New York,Cold/Very cold
+1411,36073,Orleans,New York,Cold/Very cold
+1412,36075,Oswego,New York,Cold/Very cold
+1413,36077,Otsego,New York,Cold/Very cold
+1414,36079,Putnam,New York,Cold/Very cold
+1415,36081,Queens,New York,Mixed-Humid
+1416,36083,Rensselaer,New York,Cold/Very cold
+1417,36085,Richmond,New York,Mixed-Humid
+1418,36087,Rockland,New York,Cold/Very cold
+1419,36089,St. Lawrence,New York,Cold/Very cold
+1420,36091,Saratoga,New York,Cold/Very cold
+1421,36093,Schenectady,New York,Cold/Very cold
+1422,36095,Schoharie,New York,Cold/Very cold
+1423,36097,Schuyler,New York,Cold/Very cold
+1424,36099,Seneca,New York,Cold/Very cold
+1425,36101,Steuben,New York,Cold/Very cold
+1426,36103,Suffolk,New York,Mixed-Humid
+1427,36105,Sullivan,New York,Cold/Very cold
+1428,36107,Tioga,New York,Cold/Very cold
+1429,36109,Tompkins,New York,Cold/Very cold
+1430,36111,Ulster,New York,Cold/Very cold
+1431,36113,Warren,New York,Cold/Very cold
+1432,36115,Washington,New York,Cold/Very cold
+1433,36117,Wayne,New York,Cold/Very cold
+1434,36119,Westchester,New York,Mixed-Humid
+1435,36121,Wyoming,New York,Cold/Very cold
+1436,36123,Yates,New York,Cold/Very cold
+1437,37001,Alamance,North Carolina,Mixed-Humid
+1438,37003,Alexander,North Carolina,Mixed-Humid
+1439,37005,Alleghany,North Carolina,Cold/Very cold
+1440,37007,Anson,North Carolina,Mixed-Humid
+1441,37009,Ashe,North Carolina,Cold/Very cold
+1442,37011,Avery,North Carolina,Cold/Very cold
+1443,37013,Beaufort,North Carolina,Mixed-Humid
+1444,37015,Bertie,North Carolina,Mixed-Humid
+1445,37017,Bladen,North Carolina,Mixed-Humid
+1446,37019,Brunswick,North Carolina,Hot-Humid
+1447,37021,Buncombe,North Carolina,Mixed-Humid
+1448,37023,Burke,North Carolina,Mixed-Humid
+1449,37025,Cabarrus,North Carolina,Mixed-Humid
+1450,37027,Caldwell,North Carolina,Mixed-Humid
+1451,37031,Carteret,North Carolina,Hot-Humid
+1452,37033,Caswell,North Carolina,Mixed-Humid
+1453,37035,Catawba,North Carolina,Mixed-Humid
+1454,37037,Chatham,North Carolina,Mixed-Humid
+1455,37039,Cherokee,North Carolina,Mixed-Humid
+1456,37041,Chowan,North Carolina,Mixed-Humid
+1457,37045,Cleveland,North Carolina,Mixed-Humid
+1458,37047,Columbus,North Carolina,Hot-Humid
+1459,37049,Craven,North Carolina,Mixed-Humid
+1460,37051,Cumberland,North Carolina,Mixed-Humid
+1461,37053,Currituck,North Carolina,Mixed-Humid
+1462,37055,Dare,North Carolina,Mixed-Humid
+1463,37057,Davidson,North Carolina,Mixed-Humid
+1464,37059,Davie,North Carolina,Mixed-Humid
+1465,37061,Duplin,North Carolina,Mixed-Humid
+1466,37063,Durham,North Carolina,Mixed-Humid
+1467,37065,Edgecombe,North Carolina,Mixed-Humid
+1468,37067,Forsyth,North Carolina,Mixed-Humid
+1469,37069,Franklin,North Carolina,Mixed-Humid
+1470,37071,Gaston,North Carolina,Mixed-Humid
+1471,37077,Granville,North Carolina,Mixed-Humid
+1472,37079,Greene,North Carolina,Mixed-Humid
+1473,37081,Guilford,North Carolina,Mixed-Humid
+1474,37083,Halifax,North Carolina,Mixed-Humid
+1475,37085,Harnett,North Carolina,Mixed-Humid
+1476,37087,Haywood,North Carolina,Mixed-Humid
+1477,37089,Henderson,North Carolina,Mixed-Humid
+1478,37091,Hertford,North Carolina,Mixed-Humid
+1479,37093,Hoke,North Carolina,Mixed-Humid
+1480,37097,Iredell,North Carolina,Mixed-Humid
+1481,37099,Jackson,North Carolina,Mixed-Humid
+1482,37101,Johnston,North Carolina,Mixed-Humid
+1483,37103,Jones,North Carolina,Mixed-Humid
+1484,37105,Lee,North Carolina,Mixed-Humid
+1485,37107,Lenoir,North Carolina,Mixed-Humid
+1486,37109,Lincoln,North Carolina,Mixed-Humid
+1487,37111,McDowell,North Carolina,Mixed-Humid
+1488,37113,Macon,North Carolina,Mixed-Humid
+1489,37115,Madison,North Carolina,Mixed-Humid
+1490,37117,Martin,North Carolina,Mixed-Humid
+1491,37119,Mecklenburg,North Carolina,Mixed-Humid
+1492,37121,Mitchell,North Carolina,Cold/Very cold
+1493,37123,Montgomery,North Carolina,Mixed-Humid
+1494,37125,Moore,North Carolina,Mixed-Humid
+1495,37127,Nash,North Carolina,Mixed-Humid
+1496,37129,New Hanover,North Carolina,Hot-Humid
+1497,37131,Northampton,North Carolina,Mixed-Humid
+1498,37133,Onslow,North Carolina,Hot-Humid
+1499,37135,Orange,North Carolina,Mixed-Humid
+1500,37137,Pamlico,North Carolina,Mixed-Humid
+1501,37139,Pasquotank,North Carolina,Mixed-Humid
+1502,37141,Pender,North Carolina,Hot-Humid
+1503,37143,Perquimans,North Carolina,Mixed-Humid
+1504,37145,Person,North Carolina,Mixed-Humid
+1505,37147,Pitt,North Carolina,Mixed-Humid
+1506,37149,Polk,North Carolina,Mixed-Humid
+1507,37151,Randolph,North Carolina,Mixed-Humid
+1508,37153,Richmond,North Carolina,Mixed-Humid
+1509,37155,Robeson,North Carolina,Mixed-Humid
+1510,37157,Rockingham,North Carolina,Mixed-Humid
+1511,37159,Rowan,North Carolina,Mixed-Humid
+1512,37161,Rutherford,North Carolina,Mixed-Humid
+1513,37163,Sampson,North Carolina,Mixed-Humid
+1514,37165,Scotland,North Carolina,Mixed-Humid
+1515,37167,Stanly,North Carolina,Mixed-Humid
+1516,37169,Stokes,North Carolina,Mixed-Humid
+1517,37171,Surry,North Carolina,Mixed-Humid
+1518,37173,Swain,North Carolina,Mixed-Humid
+1519,37175,Transylvania,North Carolina,Mixed-Humid
+1520,37179,Union,North Carolina,Mixed-Humid
+1521,37181,Vance,North Carolina,Mixed-Humid
+1522,37183,Wake,North Carolina,Mixed-Humid
+1523,37185,Warren,North Carolina,Mixed-Humid
+1524,37187,Washington,North Carolina,Mixed-Humid
+1525,37189,Watauga,North Carolina,Cold/Very cold
+1526,37191,Wayne,North Carolina,Mixed-Humid
+1527,37193,Wilkes,North Carolina,Mixed-Humid
+1528,37195,Wilson,North Carolina,Mixed-Humid
+1529,37197,Yadkin,North Carolina,Mixed-Humid
+1530,37199,Yancey,North Carolina,Cold/Very cold
+1531,38003,Barnes,North Dakota,Cold/Very cold
+1532,38005,Benson,North Dakota,Cold/Very cold
+1533,38009,Bottineau,North Dakota,Cold/Very cold
+1534,38015,Burleigh,North Dakota,Cold/Very cold
+1535,38017,Cass,North Dakota,Cold/Very cold
+1536,38019,Cavalier,North Dakota,Cold/Very cold
+1537,38021,Dickey,North Dakota,Cold/Very cold
+1538,38027,Eddy,North Dakota,Cold/Very cold
+1539,38031,Foster,North Dakota,Cold/Very cold
+1540,38035,Grand Forks,North Dakota,Cold/Very cold
+1541,38045,LaMoure,North Dakota,Cold/Very cold
+1542,38049,McHenry,North Dakota,Cold/Very cold
+1543,38053,McKenzie,North Dakota,Cold/Very cold
+1544,38055,McLean,North Dakota,Cold/Very cold
+1545,38057,Mercer,North Dakota,Cold/Very cold
+1546,38059,Morton,North Dakota,Cold/Very cold
+1547,38061,Mountrail,North Dakota,Cold/Very cold
+1548,38063,Nelson,North Dakota,Cold/Very cold
+1549,38067,Pembina,North Dakota,Cold/Very cold
+1550,38069,Pierce,North Dakota,Cold/Very cold
+1551,38071,Ramsey,North Dakota,Cold/Very cold
+1552,38073,Ransom,North Dakota,Cold/Very cold
+1553,38077,Richland,North Dakota,Cold/Very cold
+1554,38079,Rolette,North Dakota,Cold/Very cold
+1555,38081,Sargent,North Dakota,Cold/Very cold
+1556,38085,Sioux,North Dakota,Cold/Very cold
+1557,38089,Stark,North Dakota,Cold/Very cold
+1558,38093,Stutsman,North Dakota,Cold/Very cold
+1559,38097,Traill,North Dakota,Cold/Very cold
+1560,38099,Walsh,North Dakota,Cold/Very cold
+1561,38101,Ward,North Dakota,Cold/Very cold
+1562,38103,Wells,North Dakota,Cold/Very cold
+1563,38105,Williams,North Dakota,Cold/Very cold
+1564,39001,Adams,Ohio,Mixed-Humid
+1565,39003,Allen,Ohio,Cold/Very cold
+1566,39005,Ashland,Ohio,Cold/Very cold
+1567,39007,Ashtabula,Ohio,Cold/Very cold
+1568,39009,Athens,Ohio,Cold/Very cold
+1569,39011,Auglaize,Ohio,Cold/Very cold
+1570,39013,Belmont,Ohio,Cold/Very cold
+1571,39015,Brown,Ohio,Mixed-Humid
+1572,39017,Butler,Ohio,Cold/Very cold
+1573,39019,Carroll,Ohio,Cold/Very cold
+1574,39021,Champaign,Ohio,Cold/Very cold
+1575,39023,Clark,Ohio,Cold/Very cold
+1576,39025,Clermont,Ohio,Mixed-Humid
+1577,39027,Clinton,Ohio,Cold/Very cold
+1578,39029,Columbiana,Ohio,Cold/Very cold
+1579,39031,Coshocton,Ohio,Cold/Very cold
+1580,39033,Crawford,Ohio,Cold/Very cold
+1581,39035,Cuyahoga,Ohio,Cold/Very cold
+1582,39037,Darke,Ohio,Cold/Very cold
+1583,39039,Defiance,Ohio,Cold/Very cold
+1584,39041,Delaware,Ohio,Cold/Very cold
+1585,39043,Erie,Ohio,Cold/Very cold
+1586,39045,Fairfield,Ohio,Cold/Very cold
+1587,39047,Fayette,Ohio,Cold/Very cold
+1588,39049,Franklin,Ohio,Cold/Very cold
+1589,39051,Fulton,Ohio,Cold/Very cold
+1590,39053,Gallia,Ohio,Mixed-Humid
+1591,39055,Geauga,Ohio,Cold/Very cold
+1592,39057,Greene,Ohio,Cold/Very cold
+1593,39059,Guernsey,Ohio,Cold/Very cold
+1594,39061,Hamilton,Ohio,Mixed-Humid
+1595,39063,Hancock,Ohio,Cold/Very cold
+1596,39065,Hardin,Ohio,Cold/Very cold
+1597,39067,Harrison,Ohio,Cold/Very cold
+1598,39069,Henry,Ohio,Cold/Very cold
+1599,39071,Highland,Ohio,Cold/Very cold
+1600,39073,Hocking,Ohio,Cold/Very cold
+1601,39075,Holmes,Ohio,Cold/Very cold
+1602,39077,Huron,Ohio,Cold/Very cold
+1603,39079,Jackson,Ohio,Cold/Very cold
+1604,39081,Jefferson,Ohio,Cold/Very cold
+1605,39083,Knox,Ohio,Cold/Very cold
+1606,39085,Lake,Ohio,Cold/Very cold
+1607,39087,Lawrence,Ohio,Mixed-Humid
+1608,39089,Licking,Ohio,Cold/Very cold
+1609,39091,Logan,Ohio,Cold/Very cold
+1610,39093,Lorain,Ohio,Cold/Very cold
+1611,39095,Lucas,Ohio,Cold/Very cold
+1612,39097,Madison,Ohio,Cold/Very cold
+1613,39099,Mahoning,Ohio,Cold/Very cold
+1614,39101,Marion,Ohio,Cold/Very cold
+1615,39103,Medina,Ohio,Cold/Very cold
+1616,39105,Meigs,Ohio,Cold/Very cold
+1617,39107,Mercer,Ohio,Cold/Very cold
+1618,39109,Miami,Ohio,Cold/Very cold
+1619,39111,Monroe,Ohio,Cold/Very cold
+1620,39113,Montgomery,Ohio,Cold/Very cold
+1621,39115,Morgan,Ohio,Cold/Very cold
+1622,39117,Morrow,Ohio,Cold/Very cold
+1623,39119,Muskingum,Ohio,Cold/Very cold
+1624,39121,Noble,Ohio,Cold/Very cold
+1625,39123,Ottawa,Ohio,Cold/Very cold
+1626,39125,Paulding,Ohio,Cold/Very cold
+1627,39127,Perry,Ohio,Cold/Very cold
+1628,39129,Pickaway,Ohio,Cold/Very cold
+1629,39131,Pike,Ohio,Mixed-Humid
+1630,39133,Portage,Ohio,Cold/Very cold
+1631,39135,Preble,Ohio,Cold/Very cold
+1632,39137,Putnam,Ohio,Cold/Very cold
+1633,39139,Richland,Ohio,Cold/Very cold
+1634,39141,Ross,Ohio,Cold/Very cold
+1635,39143,Sandusky,Ohio,Cold/Very cold
+1636,39145,Scioto,Ohio,Mixed-Humid
+1637,39147,Seneca,Ohio,Cold/Very cold
+1638,39149,Shelby,Ohio,Cold/Very cold
+1639,39151,Stark,Ohio,Cold/Very cold
+1640,39153,Summit,Ohio,Cold/Very cold
+1641,39155,Trumbull,Ohio,Cold/Very cold
+1642,39157,Tuscarawas,Ohio,Cold/Very cold
+1643,39159,Union,Ohio,Cold/Very cold
+1644,39161,Van Wert,Ohio,Cold/Very cold
+1645,39163,Vinton,Ohio,Cold/Very cold
+1646,39165,Warren,Ohio,Cold/Very cold
+1647,39167,Washington,Ohio,Mixed-Humid
+1648,39169,Wayne,Ohio,Cold/Very cold
+1649,39171,Williams,Ohio,Cold/Very cold
+1650,39173,Wood,Ohio,Cold/Very cold
+1651,39175,Wyandot,Ohio,Cold/Very cold
+1652,40001,Adair,Oklahoma,Mixed-Humid
+1653,40003,Alfalfa,Oklahoma,Mixed-Humid
+1654,40005,Atoka,Oklahoma,Mixed-Humid
+1655,40009,Beckham,Oklahoma,Mixed-Humid
+1656,4001,Apache,Arizona,Cold/Very cold
+1657,40011,Blaine,Oklahoma,Mixed-Humid
+1658,40013,Bryan,Oklahoma,Mixed-Humid
+1659,40015,Caddo,Oklahoma,Mixed-Humid
+1660,40017,Canadian,Oklahoma,Mixed-Humid
+1661,40019,Carter,Oklahoma,Mixed-Humid
+1662,40021,Cherokee,Oklahoma,Mixed-Humid
+1663,40023,Choctaw,Oklahoma,Mixed-Humid
+1664,40027,Cleveland,Oklahoma,Mixed-Humid
+1665,40029,Coal,Oklahoma,Mixed-Humid
+1666,4003,Cochise,Arizona,Hot-Dry/Mixed-Dry
+1667,40031,Comanche,Oklahoma,Mixed-Humid
+1668,40033,Cotton,Oklahoma,Mixed-Humid
+1669,40035,Craig,Oklahoma,Mixed-Humid
+1670,40037,Creek,Oklahoma,Mixed-Humid
+1671,40039,Custer,Oklahoma,Mixed-Humid
+1672,40041,Delaware,Oklahoma,Mixed-Humid
+1673,40043,Dewey,Oklahoma,Mixed-Humid
+1674,40047,Garfield,Oklahoma,Mixed-Humid
+1675,40049,Garvin,Oklahoma,Mixed-Humid
+1676,4005,Coconino,Arizona,Cold/Very cold
+1677,40051,Grady,Oklahoma,Mixed-Humid
+1678,40061,Haskell,Oklahoma,Mixed-Humid
+1679,40063,Hughes,Oklahoma,Mixed-Humid
+1680,40065,Jackson,Oklahoma,Mixed-Humid
+1681,40067,Jefferson,Oklahoma,Mixed-Humid
+1682,40069,Johnston,Oklahoma,Mixed-Humid
+1683,4007,Gila,Arizona,Hot-Dry/Mixed-Dry
+1684,40071,Kay,Oklahoma,Mixed-Humid
+1685,40073,Kingfisher,Oklahoma,Mixed-Humid
+1686,40075,Kiowa,Oklahoma,Mixed-Humid
+1687,40077,Latimer,Oklahoma,Mixed-Humid
+1688,40079,Le Flore,Oklahoma,Mixed-Humid
+1689,40081,Lincoln,Oklahoma,Mixed-Humid
+1690,40083,Logan,Oklahoma,Mixed-Humid
+1691,40085,Love,Oklahoma,Mixed-Humid
+1692,40087,McClain,Oklahoma,Mixed-Humid
+1693,40089,McCurtain,Oklahoma,Mixed-Humid
+1694,4009,Graham,Arizona,Hot-Dry/Mixed-Dry
+1695,40091,McIntosh,Oklahoma,Mixed-Humid
+1696,40093,Major,Oklahoma,Mixed-Humid
+1697,40095,Marshall,Oklahoma,Mixed-Humid
+1698,40097,Mayes,Oklahoma,Mixed-Humid
+1699,40099,Murray,Oklahoma,Mixed-Humid
+1700,40101,Muskogee,Oklahoma,Mixed-Humid
+1701,40103,Noble,Oklahoma,Mixed-Humid
+1702,40105,Nowata,Oklahoma,Mixed-Humid
+1703,40107,Okfuskee,Oklahoma,Mixed-Humid
+1704,40109,Oklahoma,Oklahoma,Mixed-Humid
+1705,4011,Greenlee,Arizona,Hot-Dry/Mixed-Dry
+1706,40111,Okmulgee,Oklahoma,Mixed-Humid
+1707,40113,Osage,Oklahoma,Mixed-Humid
+1708,40115,Ottawa,Oklahoma,Mixed-Humid
+1709,40117,Pawnee,Oklahoma,Mixed-Humid
+1710,40119,Payne,Oklahoma,Mixed-Humid
+1711,4012,La Paz,Arizona,Hot-Dry/Mixed-Dry
+1712,40121,Pittsburg,Oklahoma,Mixed-Humid
+1713,40123,Pontotoc,Oklahoma,Mixed-Humid
+1714,40125,Pottawatomie,Oklahoma,Mixed-Humid
+1715,40127,Pushmataha,Oklahoma,Mixed-Humid
+1716,4013,Maricopa,Arizona,Hot-Dry/Mixed-Dry
+1717,40131,Rogers,Oklahoma,Mixed-Humid
+1718,40133,Seminole,Oklahoma,Mixed-Humid
+1719,40135,Sequoyah,Oklahoma,Mixed-Humid
+1720,40137,Stephens,Oklahoma,Mixed-Humid
+1721,40139,Texas,Oklahoma,Hot-Dry/Mixed-Dry
+1722,40141,Tillman,Oklahoma,Mixed-Humid
+1723,40143,Tulsa,Oklahoma,Mixed-Humid
+1724,40145,Wagoner,Oklahoma,Mixed-Humid
+1725,40147,Washington,Oklahoma,Mixed-Humid
+1726,40149,Washita,Oklahoma,Mixed-Humid
+1727,4015,Mohave,Arizona,Hot-Dry/Mixed-Dry
+1728,40151,Woods,Oklahoma,Mixed-Humid
+1729,40153,Woodward,Oklahoma,Mixed-Humid
+1730,4017,Navajo,Arizona,Cold/Very cold
+1731,4019,Pima,Arizona,Hot-Dry/Mixed-Dry
+1732,4021,Pinal,Arizona,Hot-Dry/Mixed-Dry
+1733,4023,Santa Cruz,Arizona,Hot-Dry/Mixed-Dry
+1734,4025,Yavapai,Arizona,Hot-Dry/Mixed-Dry
+1735,4027,Yuma,Arizona,Hot-Dry/Mixed-Dry
+1736,41001,Baker,Oregon,Cold/Very cold
+1737,41003,Benton,Oregon,Marine
+1738,41005,Clackamas,Oregon,Marine
+1739,41007,Clatsop,Oregon,Marine
+1740,41009,Columbia,Oregon,Marine
+1741,41011,Coos,Oregon,Marine
+1742,41013,Crook,Oregon,Cold/Very cold
+1743,41017,Deschutes,Oregon,Cold/Very cold
+1744,41019,Douglas,Oregon,Marine
+1745,41027,Hood River,Oregon,Cold/Very cold
+1746,41029,Jackson,Oregon,Marine
+1747,41031,Jefferson,Oregon,Cold/Very cold
+1748,41033,Josephine,Oregon,Marine
+1749,41035,Klamath,Oregon,Cold/Very cold
+1750,41039,Lane,Oregon,Marine
+1751,41041,Lincoln,Oregon,Marine
+1752,41043,Linn,Oregon,Marine
+1753,41045,Malheur,Oregon,Cold/Very cold
+1754,41047,Marion,Oregon,Marine
+1755,41049,Morrow,Oregon,Cold/Very cold
+1756,41051,Multnomah,Oregon,Marine
+1757,41053,Polk,Oregon,Marine
+1758,41059,Umatilla,Oregon,Cold/Very cold
+1759,41061,Union,Oregon,Cold/Very cold
+1760,41065,Wasco,Oregon,Cold/Very cold
+1761,41067,Washington,Oregon,Marine
+1762,41071,Yamhill,Oregon,Marine
+1763,42001,Adams,Pennsylvania,Cold/Very cold
+1764,42003,Allegheny,Pennsylvania,Cold/Very cold
+1765,42005,Armstrong,Pennsylvania,Cold/Very cold
+1766,42007,Beaver,Pennsylvania,Cold/Very cold
+1767,42009,Bedford,Pennsylvania,Cold/Very cold
+1768,42011,Berks,Pennsylvania,Cold/Very cold
+1769,42013,Blair,Pennsylvania,Cold/Very cold
+1770,42015,Bradford,Pennsylvania,Cold/Very cold
+1771,42017,Bucks,Pennsylvania,Mixed-Humid
+1772,42019,Butler,Pennsylvania,Cold/Very cold
+1773,42021,Cambria,Pennsylvania,Cold/Very cold
+1774,42025,Carbon,Pennsylvania,Cold/Very cold
+1775,42027,Centre,Pennsylvania,Cold/Very cold
+1776,42029,Chester,Pennsylvania,Mixed-Humid
+1777,42031,Clarion,Pennsylvania,Cold/Very cold
+1778,42033,Clearfield,Pennsylvania,Cold/Very cold
+1779,42035,Clinton,Pennsylvania,Cold/Very cold
+1780,42037,Columbia,Pennsylvania,Cold/Very cold
+1781,42039,Crawford,Pennsylvania,Cold/Very cold
+1782,42041,Cumberland,Pennsylvania,Cold/Very cold
+1783,42043,Dauphin,Pennsylvania,Cold/Very cold
+1784,42045,Delaware,Pennsylvania,Mixed-Humid
+1785,42047,Elk,Pennsylvania,Cold/Very cold
+1786,42049,Erie,Pennsylvania,Cold/Very cold
+1787,42051,Fayette,Pennsylvania,Cold/Very cold
+1788,42055,Franklin,Pennsylvania,Cold/Very cold
+1789,42057,Fulton,Pennsylvania,Cold/Very cold
+1790,42059,Greene,Pennsylvania,Cold/Very cold
+1791,42061,Huntingdon,Pennsylvania,Cold/Very cold
+1792,42063,Indiana,Pennsylvania,Cold/Very cold
+1793,42065,Jefferson,Pennsylvania,Cold/Very cold
+1794,42067,Juniata,Pennsylvania,Cold/Very cold
+1795,42069,Lackawanna,Pennsylvania,Cold/Very cold
+1796,42071,Lancaster,Pennsylvania,Cold/Very cold
+1797,42073,Lawrence,Pennsylvania,Cold/Very cold
+1798,42075,Lebanon,Pennsylvania,Cold/Very cold
+1799,42077,Lehigh,Pennsylvania,Cold/Very cold
+1800,42079,Luzerne,Pennsylvania,Cold/Very cold
+1801,42081,Lycoming,Pennsylvania,Cold/Very cold
+1802,42083,McKean,Pennsylvania,Cold/Very cold
+1803,42085,Mercer,Pennsylvania,Cold/Very cold
+1804,42087,Mifflin,Pennsylvania,Cold/Very cold
+1805,42089,Monroe,Pennsylvania,Cold/Very cold
+1806,42091,Montgomery,Pennsylvania,Mixed-Humid
+1807,42093,Montour,Pennsylvania,Cold/Very cold
+1808,42095,Northampton,Pennsylvania,Cold/Very cold
+1809,42097,Northumberland,Pennsylvania,Cold/Very cold
+1810,42099,Perry,Pennsylvania,Cold/Very cold
+1811,42101,Philadelphia,Pennsylvania,Mixed-Humid
+1812,42103,Pike,Pennsylvania,Cold/Very cold
+1813,42105,Potter,Pennsylvania,Cold/Very cold
+1814,42107,Schuylkill,Pennsylvania,Cold/Very cold
+1815,42109,Snyder,Pennsylvania,Cold/Very cold
+1816,42111,Somerset,Pennsylvania,Cold/Very cold
+1817,42115,Susquehanna,Pennsylvania,Cold/Very cold
+1818,42117,Tioga,Pennsylvania,Cold/Very cold
+1819,42119,Union,Pennsylvania,Cold/Very cold
+1820,42121,Venango,Pennsylvania,Cold/Very cold
+1821,42123,Warren,Pennsylvania,Cold/Very cold
+1822,42125,Washington,Pennsylvania,Cold/Very cold
+1823,42127,Wayne,Pennsylvania,Cold/Very cold
+1824,42129,Westmoreland,Pennsylvania,Cold/Very cold
+1825,42131,Wyoming,Pennsylvania,Cold/Very cold
+1826,42133,York,Pennsylvania,Mixed-Humid
+1827,44001,Bristol,Rhode Island,Cold/Very cold
+1828,44003,Kent,Rhode Island,Cold/Very cold
+1829,44005,Newport,Rhode Island,Cold/Very cold
+1830,44007,Providence,Rhode Island,Cold/Very cold
+1831,44009,Washington,Rhode Island,Cold/Very cold
+1832,45001,Abbeville,South Carolina,Mixed-Humid
+1833,45003,Aiken,South Carolina,Mixed-Humid
+1834,45005,Allendale,South Carolina,Hot-Humid
+1835,45007,Anderson,South Carolina,Mixed-Humid
+1836,45009,Bamberg,South Carolina,Hot-Humid
+1837,45011,Barnwell,South Carolina,Hot-Humid
+1838,45013,Beaufort,South Carolina,Hot-Humid
+1839,45015,Berkeley,South Carolina,Hot-Humid
+1840,45017,Calhoun,South Carolina,Mixed-Humid
+1841,45019,Charleston,South Carolina,Hot-Humid
+1842,45021,Cherokee,South Carolina,Mixed-Humid
+1843,45023,Chester,South Carolina,Mixed-Humid
+1844,45025,Chesterfield,South Carolina,Mixed-Humid
+1845,45027,Clarendon,South Carolina,Mixed-Humid
+1846,45029,Colleton,South Carolina,Hot-Humid
+1847,45031,Darlington,South Carolina,Mixed-Humid
+1848,45033,Dillon,South Carolina,Mixed-Humid
+1849,45035,Dorchester,South Carolina,Hot-Humid
+1850,45037,Edgefield,South Carolina,Mixed-Humid
+1851,45039,Fairfield,South Carolina,Mixed-Humid
+1852,45041,Florence,South Carolina,Mixed-Humid
+1853,45043,Georgetown,South Carolina,Hot-Humid
+1854,45045,Greenville,South Carolina,Mixed-Humid
+1855,45047,Greenwood,South Carolina,Mixed-Humid
+1856,45049,Hampton,South Carolina,Hot-Humid
+1857,45051,Horry,South Carolina,Hot-Humid
+1858,45053,Jasper,South Carolina,Hot-Humid
+1859,45055,Kershaw,South Carolina,Mixed-Humid
+1860,45057,Lancaster,South Carolina,Mixed-Humid
+1861,45059,Laurens,South Carolina,Mixed-Humid
+1862,45061,Lee,South Carolina,Mixed-Humid
+1863,45063,Lexington,South Carolina,Mixed-Humid
+1864,45065,McCormick,South Carolina,Mixed-Humid
+1865,45067,Marion,South Carolina,Mixed-Humid
+1866,45069,Marlboro,South Carolina,Mixed-Humid
+1867,45071,Newberry,South Carolina,Mixed-Humid
+1868,45073,Oconee,South Carolina,Mixed-Humid
+1869,45075,Orangeburg,South Carolina,Mixed-Humid
+1870,45077,Pickens,South Carolina,Mixed-Humid
+1871,45079,Richland,South Carolina,Mixed-Humid
+1872,45081,Saluda,South Carolina,Mixed-Humid
+1873,45083,Spartanburg,South Carolina,Mixed-Humid
+1874,45085,Sumter,South Carolina,Mixed-Humid
+1875,45087,Union,South Carolina,Mixed-Humid
+1876,45089,Williamsburg,South Carolina,Mixed-Humid
+1877,45091,York,South Carolina,Mixed-Humid
+1878,46003,Aurora,South Dakota,Cold/Very cold
+1879,46005,Beadle,South Dakota,Cold/Very cold
+1880,46009,Bon Homme,South Dakota,Cold/Very cold
+1881,46011,Brookings,South Dakota,Cold/Very cold
+1882,46013,Brown,South Dakota,Cold/Very cold
+1883,46015,Brule,South Dakota,Cold/Very cold
+1884,46017,Buffalo,South Dakota,Cold/Very cold
+1885,46019,Butte,South Dakota,Cold/Very cold
+1886,46023,Charles Mix,South Dakota,Cold/Very cold
+1887,46027,Clay,South Dakota,Cold/Very cold
+1888,46029,Codington,South Dakota,Cold/Very cold
+1889,46031,Corson,South Dakota,Cold/Very cold
+1890,46033,Custer,South Dakota,Cold/Very cold
+1891,46035,Davison,South Dakota,Cold/Very cold
+1892,46037,Day,South Dakota,Cold/Very cold
+1893,46039,Deuel,South Dakota,Cold/Very cold
+1894,46041,Dewey,South Dakota,Cold/Very cold
+1895,46047,Fall River,South Dakota,Cold/Very cold
+1896,46051,Grant,South Dakota,Cold/Very cold
+1897,46053,Gregory,South Dakota,Cold/Very cold
+1898,46057,Hamlin,South Dakota,Cold/Very cold
+1899,46065,Hughes,South Dakota,Cold/Very cold
+1900,46067,Hutchinson,South Dakota,Cold/Very cold
+1901,46077,Kingsbury,South Dakota,Cold/Very cold
+1902,46079,Lake,South Dakota,Cold/Very cold
+1903,46081,Lawrence,South Dakota,Cold/Very cold
+1904,46083,Lincoln,South Dakota,Cold/Very cold
+1905,46085,Lyman,South Dakota,Cold/Very cold
+1906,46087,McCook,South Dakota,Cold/Very cold
+1907,46093,Meade,South Dakota,Cold/Very cold
+1908,46099,Minnehaha,South Dakota,Cold/Very cold
+1909,46101,Moody,South Dakota,Cold/Very cold
+1910,46102,NA,NA,Cold/Very cold
+1911,46103,Pennington,South Dakota,Cold/Very cold
+1912,46109,Roberts,South Dakota,Cold/Very cold
+1913,46115,Spink,South Dakota,Cold/Very cold
+1914,46121,Todd,South Dakota,Cold/Very cold
+1915,46123,Tripp,South Dakota,Cold/Very cold
+1916,46125,Turner,South Dakota,Cold/Very cold
+1917,46127,Union,South Dakota,Cold/Very cold
+1918,46129,Walworth,South Dakota,Cold/Very cold
+1919,46135,Yankton,South Dakota,Cold/Very cold
+1920,47001,Anderson,Tennessee,Mixed-Humid
+1921,47003,Bedford,Tennessee,Mixed-Humid
+1922,47005,Benton,Tennessee,Mixed-Humid
+1923,47007,Bledsoe,Tennessee,Mixed-Humid
+1924,47009,Blount,Tennessee,Mixed-Humid
+1925,47011,Bradley,Tennessee,Mixed-Humid
+1926,47013,Campbell,Tennessee,Mixed-Humid
+1927,47015,Cannon,Tennessee,Mixed-Humid
+1928,47017,Carroll,Tennessee,Mixed-Humid
+1929,47019,Carter,Tennessee,Mixed-Humid
+1930,47021,Cheatham,Tennessee,Mixed-Humid
+1931,47023,Chester,Tennessee,Mixed-Humid
+1932,47025,Claiborne,Tennessee,Mixed-Humid
+1933,47027,Clay,Tennessee,Mixed-Humid
+1934,47029,Cocke,Tennessee,Mixed-Humid
+1935,47031,Coffee,Tennessee,Mixed-Humid
+1936,47033,Crockett,Tennessee,Mixed-Humid
+1937,47035,Cumberland,Tennessee,Mixed-Humid
+1938,47037,Davidson,Tennessee,Mixed-Humid
+1939,47039,Decatur,Tennessee,Mixed-Humid
+1940,47041,DeKalb,Tennessee,Mixed-Humid
+1941,47043,Dickson,Tennessee,Mixed-Humid
+1942,47045,Dyer,Tennessee,Mixed-Humid
+1943,47047,Fayette,Tennessee,Mixed-Humid
+1944,47049,Fentress,Tennessee,Mixed-Humid
+1945,47051,Franklin,Tennessee,Mixed-Humid
+1946,47053,Gibson,Tennessee,Mixed-Humid
+1947,47055,Giles,Tennessee,Mixed-Humid
+1948,47057,Grainger,Tennessee,Mixed-Humid
+1949,47059,Greene,Tennessee,Mixed-Humid
+1950,47061,Grundy,Tennessee,Mixed-Humid
+1951,47063,Hamblen,Tennessee,Mixed-Humid
+1952,47065,Hamilton,Tennessee,Mixed-Humid
+1953,47069,Hardeman,Tennessee,Mixed-Humid
+1954,47071,Hardin,Tennessee,Mixed-Humid
+1955,47073,Hawkins,Tennessee,Mixed-Humid
+1956,47075,Haywood,Tennessee,Mixed-Humid
+1957,47077,Henderson,Tennessee,Mixed-Humid
+1958,47079,Henry,Tennessee,Mixed-Humid
+1959,47081,Hickman,Tennessee,Mixed-Humid
+1960,47083,Houston,Tennessee,Mixed-Humid
+1961,47085,Humphreys,Tennessee,Mixed-Humid
+1962,47087,Jackson,Tennessee,Mixed-Humid
+1963,47089,Jefferson,Tennessee,Mixed-Humid
+1964,47091,Johnson,Tennessee,Mixed-Humid
+1965,47093,Knox,Tennessee,Mixed-Humid
+1966,47095,Lake,Tennessee,Mixed-Humid
+1967,47097,Lauderdale,Tennessee,Mixed-Humid
+1968,47099,Lawrence,Tennessee,Mixed-Humid
+1969,47101,Lewis,Tennessee,Mixed-Humid
+1970,47103,Lincoln,Tennessee,Mixed-Humid
+1971,47105,Loudon,Tennessee,Mixed-Humid
+1972,47107,McMinn,Tennessee,Mixed-Humid
+1973,47109,McNairy,Tennessee,Mixed-Humid
+1974,47111,Macon,Tennessee,Mixed-Humid
+1975,47113,Madison,Tennessee,Mixed-Humid
+1976,47115,Marion,Tennessee,Mixed-Humid
+1977,47117,Marshall,Tennessee,Mixed-Humid
+1978,47119,Maury,Tennessee,Mixed-Humid
+1979,47121,Meigs,Tennessee,Mixed-Humid
+1980,47123,Monroe,Tennessee,Mixed-Humid
+1981,47125,Montgomery,Tennessee,Mixed-Humid
+1982,47127,Moore,Tennessee,Mixed-Humid
+1983,47129,Morgan,Tennessee,Mixed-Humid
+1984,47131,Obion,Tennessee,Mixed-Humid
+1985,47133,Overton,Tennessee,Mixed-Humid
+1986,47135,Perry,Tennessee,Mixed-Humid
+1987,47137,Pickett,Tennessee,Mixed-Humid
+1988,47139,Polk,Tennessee,Mixed-Humid
+1989,47141,Putnam,Tennessee,Mixed-Humid
+1990,47143,Rhea,Tennessee,Mixed-Humid
+1991,47145,Roane,Tennessee,Mixed-Humid
+1992,47147,Robertson,Tennessee,Mixed-Humid
+1993,47149,Rutherford,Tennessee,Mixed-Humid
+1994,47151,Scott,Tennessee,Mixed-Humid
+1995,47153,Sequatchie,Tennessee,Mixed-Humid
+1996,47155,Sevier,Tennessee,Mixed-Humid
+1997,47157,Shelby,Tennessee,Mixed-Humid
+1998,47159,Smith,Tennessee,Mixed-Humid
+1999,47161,Stewart,Tennessee,Mixed-Humid
+2000,47163,Sullivan,Tennessee,Mixed-Humid
+2001,47165,Sumner,Tennessee,Mixed-Humid
+2002,47167,Tipton,Tennessee,Mixed-Humid
+2003,47169,Trousdale,Tennessee,Mixed-Humid
+2004,47171,Unicoi,Tennessee,Mixed-Humid
+2005,47173,Union,Tennessee,Mixed-Humid
+2006,47175,Van Buren,Tennessee,Mixed-Humid
+2007,47177,Warren,Tennessee,Mixed-Humid
+2008,47179,Washington,Tennessee,Mixed-Humid
+2009,47181,Wayne,Tennessee,Mixed-Humid
+2010,47183,Weakley,Tennessee,Mixed-Humid
+2011,47185,White,Tennessee,Mixed-Humid
+2012,47187,Williamson,Tennessee,Mixed-Humid
+2013,47189,Wilson,Tennessee,Mixed-Humid
+2014,48001,Anderson,Texas,Hot-Humid
+2015,48003,Andrews,Texas,Hot-Dry/Mixed-Dry
+2016,48005,Angelina,Texas,Hot-Humid
+2017,48007,Aransas,Texas,Hot-Humid
+2018,48009,Archer,Texas,Mixed-Humid
+2019,48013,Atascosa,Texas,Hot-Humid
+2020,48015,Austin,Texas,Hot-Humid
+2021,48017,Bailey,Texas,Hot-Dry/Mixed-Dry
+2022,48019,Bandera,Texas,Hot-Humid
+2023,48021,Bastrop,Texas,Hot-Humid
+2024,48025,Bee,Texas,Hot-Humid
+2025,48027,Bell,Texas,Hot-Humid
+2026,48029,Bexar,Texas,Hot-Humid
+2027,48035,Bosque,Texas,Hot-Humid
+2028,48037,Bowie,Texas,Hot-Humid
+2029,48039,Brazoria,Texas,Hot-Humid
+2030,48041,Brazos,Texas,Hot-Humid
+2031,48043,Brewster,Texas,Hot-Dry/Mixed-Dry
+2032,48047,Brooks,Texas,Hot-Humid
+2033,48049,Brown,Texas,Hot-Humid
+2034,48051,Burleson,Texas,Hot-Humid
+2035,48053,Burnet,Texas,Hot-Humid
+2036,48055,Caldwell,Texas,Hot-Humid
+2037,48057,Calhoun,Texas,Hot-Humid
+2038,48059,Callahan,Texas,Hot-Dry/Mixed-Dry
+2039,48061,Cameron,Texas,Hot-Humid
+2040,48063,Camp,Texas,Hot-Humid
+2041,48067,Cass,Texas,Hot-Humid
+2042,48069,Castro,Texas,Hot-Dry/Mixed-Dry
+2043,48071,Chambers,Texas,Hot-Humid
+2044,48073,Cherokee,Texas,Hot-Humid
+2045,48075,Childress,Texas,Hot-Dry/Mixed-Dry
+2046,48077,Clay,Texas,Mixed-Humid
+2047,48081,Coke,Texas,Hot-Dry/Mixed-Dry
+2048,48083,Coleman,Texas,Hot-Dry/Mixed-Dry
+2049,48085,Collin,Texas,Hot-Humid
+2050,48089,Colorado,Texas,Hot-Humid
+2051,48091,Comal,Texas,Hot-Humid
+2052,48093,Comanche,Texas,Hot-Humid
+2053,48097,Cooke,Texas,Mixed-Humid
+2054,48099,Coryell,Texas,Hot-Humid
+2055,48103,Crane,Texas,Hot-Dry/Mixed-Dry
+2056,48105,Crockett,Texas,Hot-Dry/Mixed-Dry
+2057,48111,Dallam,Texas,Hot-Dry/Mixed-Dry
+2058,48113,Dallas,Texas,Hot-Humid
+2059,48115,Dawson,Texas,Hot-Dry/Mixed-Dry
+2060,48117,Deaf Smith,Texas,Hot-Dry/Mixed-Dry
+2061,48121,Denton,Texas,Hot-Humid
+2062,48123,DeWitt,Texas,Hot-Humid
+2063,48127,Dimmit,Texas,Hot-Humid
+2064,48131,Duval,Texas,Hot-Humid
+2065,48133,Eastland,Texas,Mixed-Humid
+2066,48135,Ector,Texas,Hot-Dry/Mixed-Dry
+2067,48139,Ellis,Texas,Hot-Humid
+2068,48141,El Paso,Texas,Hot-Dry/Mixed-Dry
+2069,48143,Erath,Texas,Hot-Humid
+2070,48145,Falls,Texas,Hot-Humid
+2071,48147,Fannin,Texas,Mixed-Humid
+2072,48149,Fayette,Texas,Hot-Humid
+2073,48153,Floyd,Texas,Hot-Dry/Mixed-Dry
+2074,48157,Fort Bend,Texas,Hot-Humid
+2075,48159,Franklin,Texas,Hot-Humid
+2076,48161,Freestone,Texas,Hot-Humid
+2077,48163,Frio,Texas,Hot-Humid
+2078,48165,Gaines,Texas,Hot-Dry/Mixed-Dry
+2079,48167,Galveston,Texas,Hot-Humid
+2080,48171,Gillespie,Texas,Hot-Humid
+2081,48177,Gonzales,Texas,Hot-Humid
+2082,48179,Gray,Texas,Hot-Dry/Mixed-Dry
+2083,48181,Grayson,Texas,Mixed-Humid
+2084,48183,Gregg,Texas,Hot-Humid
+2085,48185,Grimes,Texas,Hot-Humid
+2086,48187,Guadalupe,Texas,Hot-Humid
+2087,48189,Hale,Texas,Hot-Dry/Mixed-Dry
+2088,48193,Hamilton,Texas,Hot-Humid
+2089,48195,Hansford,Texas,Hot-Dry/Mixed-Dry
+2090,48199,Hardin,Texas,Hot-Humid
+2091,48201,Harris,Texas,Hot-Humid
+2092,48203,Harrison,Texas,Hot-Humid
+2093,48209,Hays,Texas,Hot-Humid
+2094,48213,Henderson,Texas,Hot-Humid
+2095,48215,Hidalgo,Texas,Hot-Humid
+2096,48217,Hill,Texas,Hot-Humid
+2097,48219,Hockley,Texas,Hot-Dry/Mixed-Dry
+2098,48221,Hood,Texas,Hot-Humid
+2099,48223,Hopkins,Texas,Hot-Humid
+2100,48225,Houston,Texas,Hot-Humid
+2101,48227,Howard,Texas,Hot-Dry/Mixed-Dry
+2102,48229,Hudspeth,Texas,Hot-Dry/Mixed-Dry
+2103,48231,Hunt,Texas,Hot-Humid
+2104,48233,Hutchinson,Texas,Hot-Dry/Mixed-Dry
+2105,48237,Jack,Texas,Mixed-Humid
+2106,48239,Jackson,Texas,Hot-Humid
+2107,48241,Jasper,Texas,Hot-Humid
+2108,48245,Jefferson,Texas,Hot-Humid
+2109,48249,Jim Wells,Texas,Hot-Humid
+2110,48251,Johnson,Texas,Hot-Humid
+2111,48253,Jones,Texas,Hot-Dry/Mixed-Dry
+2112,48255,Karnes,Texas,Hot-Humid
+2113,48257,Kaufman,Texas,Hot-Humid
+2114,48259,Kendall,Texas,Hot-Humid
+2115,48265,Kerr,Texas,Hot-Dry/Mixed-Dry
+2116,48273,Kleberg,Texas,Hot-Humid
+2117,48277,Lamar,Texas,Hot-Humid
+2118,48279,Lamb,Texas,Hot-Dry/Mixed-Dry
+2119,48281,Lampasas,Texas,Hot-Humid
+2120,48283,La Salle,Texas,Hot-Humid
+2121,48285,Lavaca,Texas,Hot-Humid
+2122,48287,Lee,Texas,Hot-Humid
+2123,48289,Leon,Texas,Hot-Humid
+2124,48291,Liberty,Texas,Hot-Humid
+2125,48293,Limestone,Texas,Hot-Humid
+2126,48297,Live Oak,Texas,Hot-Humid
+2127,48299,Llano,Texas,Hot-Humid
+2128,48303,Lubbock,Texas,Hot-Dry/Mixed-Dry
+2129,48305,Lynn,Texas,Hot-Dry/Mixed-Dry
+2130,48307,McCulloch,Texas,Hot-Dry/Mixed-Dry
+2131,48309,McLennan,Texas,Hot-Humid
+2132,48313,Madison,Texas,Hot-Humid
+2133,48317,Martin,Texas,Hot-Dry/Mixed-Dry
+2134,48321,Matagorda,Texas,Hot-Humid
+2135,48323,Maverick,Texas,Hot-Humid
+2136,48325,Medina,Texas,Hot-Humid
+2137,48329,Midland,Texas,Hot-Dry/Mixed-Dry
+2138,48331,Milam,Texas,Hot-Humid
+2139,48335,Mitchell,Texas,Hot-Dry/Mixed-Dry
+2140,48337,Montague,Texas,Mixed-Humid
+2141,48339,Montgomery,Texas,Hot-Humid
+2142,48341,Moore,Texas,Hot-Dry/Mixed-Dry
+2143,48343,Morris,Texas,Hot-Humid
+2144,48347,Nacogdoches,Texas,Hot-Humid
+2145,48349,Navarro,Texas,Hot-Humid
+2146,48353,Nolan,Texas,Hot-Dry/Mixed-Dry
+2147,48355,Nueces,Texas,Hot-Humid
+2148,48357,Ochiltree,Texas,Hot-Dry/Mixed-Dry
+2149,48361,Orange,Texas,Hot-Humid
+2150,48363,Palo Pinto,Texas,Mixed-Humid
+2151,48365,Panola,Texas,Hot-Humid
+2152,48367,Parker,Texas,Hot-Humid
+2153,48369,Parmer,Texas,Hot-Dry/Mixed-Dry
+2154,48371,Pecos,Texas,Hot-Dry/Mixed-Dry
+2155,48373,Polk,Texas,Hot-Humid
+2156,48375,Potter,Texas,Hot-Dry/Mixed-Dry
+2157,48377,Presidio,Texas,Hot-Dry/Mixed-Dry
+2158,48379,Rains,Texas,Hot-Humid
+2159,48381,Randall,Texas,Hot-Dry/Mixed-Dry
+2160,48387,Red River,Texas,Hot-Humid
+2161,48389,Reeves,Texas,Hot-Dry/Mixed-Dry
+2162,48391,Refugio,Texas,Hot-Humid
+2163,48395,Robertson,Texas,Hot-Humid
+2164,48397,Rockwall,Texas,Hot-Humid
+2165,48399,Runnels,Texas,Hot-Dry/Mixed-Dry
+2166,48401,Rusk,Texas,Hot-Humid
+2167,48405,San Augustine,Texas,Hot-Humid
+2168,48407,San Jacinto,Texas,Hot-Humid
+2169,48409,San Patricio,Texas,Hot-Humid
+2170,48411,San Saba,Texas,Hot-Humid
+2171,48415,Scurry,Texas,Hot-Dry/Mixed-Dry
+2172,48419,Shelby,Texas,Hot-Humid
+2173,48423,Smith,Texas,Hot-Humid
+2174,48425,Somervell,Texas,Hot-Humid
+2175,48427,Starr,Texas,Hot-Humid
+2176,48429,Stephens,Texas,Mixed-Humid
+2177,48435,Sutton,Texas,Hot-Dry/Mixed-Dry
+2178,48437,Swisher,Texas,Hot-Dry/Mixed-Dry
+2179,48439,Tarrant,Texas,Hot-Humid
+2180,48441,Taylor,Texas,Hot-Dry/Mixed-Dry
+2181,48445,Terry,Texas,Hot-Dry/Mixed-Dry
+2182,48449,Titus,Texas,Hot-Humid
+2183,48451,Tom Green,Texas,Hot-Dry/Mixed-Dry
+2184,48453,Travis,Texas,Hot-Humid
+2185,48457,Tyler,Texas,Hot-Humid
+2186,48459,Upshur,Texas,Hot-Humid
+2187,48463,Uvalde,Texas,Hot-Humid
+2188,48465,Val Verde,Texas,Hot-Humid
+2189,48467,Van Zandt,Texas,Hot-Humid
+2190,48469,Victoria,Texas,Hot-Humid
+2191,48471,Walker,Texas,Hot-Humid
+2192,48473,Waller,Texas,Hot-Humid
+2193,48475,Ward,Texas,Hot-Dry/Mixed-Dry
+2194,48477,Washington,Texas,Hot-Humid
+2195,48479,Webb,Texas,Hot-Humid
+2196,48481,Wharton,Texas,Hot-Humid
+2197,48485,Wichita,Texas,Mixed-Humid
+2198,48487,Wilbarger,Texas,Hot-Dry/Mixed-Dry
+2199,48489,Willacy,Texas,Hot-Humid
+2200,48491,Williamson,Texas,Hot-Humid
+2201,48493,Wilson,Texas,Hot-Humid
+2202,48495,Winkler,Texas,Hot-Dry/Mixed-Dry
+2203,48497,Wise,Texas,Mixed-Humid
+2204,48499,Wood,Texas,Hot-Humid
+2205,48501,Yoakum,Texas,Hot-Dry/Mixed-Dry
+2206,48503,Young,Texas,Mixed-Humid
+2207,48505,Zapata,Texas,Hot-Humid
+2208,48507,Zavala,Texas,Hot-Humid
+2209,49011,Davis,Utah,Cold/Very cold
+2210,49035,Salt Lake,Utah,Cold/Very cold
+2211,49037,San Juan,Utah,Cold/Very cold
+2212,49043,Summit,Utah,Cold/Very cold
+2213,49045,Tooele,Utah,Cold/Very cold
+2214,49049,Utah,Utah,Cold/Very cold
+2215,49051,Wasatch,Utah,Cold/Very cold
+2216,50003,Bennington,Vermont,Cold/Very cold
+2217,50007,Chittenden,Vermont,Cold/Very cold
+2218,5001,Arkansas,Arkansas,Mixed-Humid
+2219,50011,Franklin,Vermont,Cold/Very cold
+2220,50021,Rutland,Vermont,Cold/Very cold
+2221,50023,Washington,Vermont,Cold/Very cold
+2222,50025,Windham,Vermont,Cold/Very cold
+2223,50027,Windsor,Vermont,Cold/Very cold
+2224,5003,Ashley,Arkansas,Mixed-Humid
+2225,5005,Baxter,Arkansas,Mixed-Humid
+2226,5007,Benton,Arkansas,Mixed-Humid
+2227,5009,Boone,Arkansas,Mixed-Humid
+2228,5011,Bradley,Arkansas,Mixed-Humid
+2229,5015,Carroll,Arkansas,Mixed-Humid
+2230,5017,Chicot,Arkansas,Mixed-Humid
+2231,5019,Clark,Arkansas,Mixed-Humid
+2232,5021,Clay,Arkansas,Mixed-Humid
+2233,5023,Cleburne,Arkansas,Mixed-Humid
+2234,5025,Cleveland,Arkansas,Mixed-Humid
+2235,5027,Columbia,Arkansas,Hot-Humid
+2236,5029,Conway,Arkansas,Mixed-Humid
+2237,5031,Craighead,Arkansas,Mixed-Humid
+2238,5033,Crawford,Arkansas,Mixed-Humid
+2239,5035,Crittenden,Arkansas,Mixed-Humid
+2240,5037,Cross,Arkansas,Mixed-Humid
+2241,5039,Dallas,Arkansas,Mixed-Humid
+2242,5041,Desha,Arkansas,Mixed-Humid
+2243,5043,Drew,Arkansas,Mixed-Humid
+2244,5045,Faulkner,Arkansas,Mixed-Humid
+2245,5047,Franklin,Arkansas,Mixed-Humid
+2246,5049,Fulton,Arkansas,Mixed-Humid
+2247,5051,Garland,Arkansas,Mixed-Humid
+2248,5053,Grant,Arkansas,Mixed-Humid
+2249,5055,Greene,Arkansas,Mixed-Humid
+2250,5057,Hempstead,Arkansas,Mixed-Humid
+2251,5059,Hot Spring,Arkansas,Mixed-Humid
+2252,5061,Howard,Arkansas,Mixed-Humid
+2253,5063,Independence,Arkansas,Mixed-Humid
+2254,5065,Izard,Arkansas,Mixed-Humid
+2255,5067,Jackson,Arkansas,Mixed-Humid
+2256,5069,Jefferson,Arkansas,Mixed-Humid
+2257,5071,Johnson,Arkansas,Mixed-Humid
+2258,5075,Lawrence,Arkansas,Mixed-Humid
+2259,5077,Lee,Arkansas,Mixed-Humid
+2260,5079,Lincoln,Arkansas,Mixed-Humid
+2261,5081,Little River,Arkansas,Hot-Humid
+2262,5083,Logan,Arkansas,Mixed-Humid
+2263,5085,Lonoke,Arkansas,Mixed-Humid
+2264,5087,Madison,Arkansas,Mixed-Humid
+2265,5089,Marion,Arkansas,Mixed-Humid
+2266,5091,Miller,Arkansas,Hot-Humid
+2267,5093,Mississippi,Arkansas,Mixed-Humid
+2268,5095,Monroe,Arkansas,Mixed-Humid
+2269,5097,Montgomery,Arkansas,Mixed-Humid
+2270,5099,Nevada,Arkansas,Mixed-Humid
+2271,51001,Accomack,Virginia,Mixed-Humid
+2272,51003,Albemarle,Virginia,Mixed-Humid
+2273,51005,Alleghany,Virginia,Mixed-Humid
+2274,51009,Amherst,Virginia,Mixed-Humid
+2275,5101,Newton,Arkansas,Mixed-Humid
+2276,51011,Appomattox,Virginia,Mixed-Humid
+2277,51013,Arlington,Virginia,Mixed-Humid
+2278,51015,Augusta,Virginia,Mixed-Humid
+2279,51019,Bedford County,Virginia,Mixed-Humid
+2280,51021,Bland,Virginia,Mixed-Humid
+2281,51023,Botetourt,Virginia,Mixed-Humid
+2282,51025,Brunswick,Virginia,Mixed-Humid
+2283,51027,Buchanan,Virginia,Mixed-Humid
+2284,51029,Buckingham,Virginia,Mixed-Humid
+2285,5103,Ouachita,Arkansas,Mixed-Humid
+2286,51031,Campbell,Virginia,Mixed-Humid
+2287,51033,Caroline,Virginia,Mixed-Humid
+2288,51035,Carroll,Virginia,Mixed-Humid
+2289,51041,Chesterfield,Virginia,Mixed-Humid
+2290,51047,Culpeper,Virginia,Mixed-Humid
+2291,5105,Perry,Arkansas,Mixed-Humid
+2292,51051,Dickenson,Virginia,Mixed-Humid
+2293,51053,Dinwiddie,Virginia,Mixed-Humid
+2294,51059,Fairfax County,Virginia,Mixed-Humid
+2295,51061,Fauquier,Virginia,Mixed-Humid
+2296,51063,Floyd,Virginia,Mixed-Humid
+2297,51065,Fluvanna,Virginia,Mixed-Humid
+2298,51067,Franklin County,Virginia,Mixed-Humid
+2299,51069,Frederick,Virginia,Mixed-Humid
+2300,5107,Phillips,Arkansas,Mixed-Humid
+2301,51071,Giles,Virginia,Mixed-Humid
+2302,51073,Gloucester,Virginia,Mixed-Humid
+2303,51075,Goochland,Virginia,Mixed-Humid
+2304,51077,Grayson,Virginia,Mixed-Humid
+2305,51079,Greene,Virginia,Mixed-Humid
+2306,51081,Greensville,Virginia,Mixed-Humid
+2307,51083,Halifax,Virginia,Mixed-Humid
+2308,51085,Hanover,Virginia,Mixed-Humid
+2309,51087,Henrico,Virginia,Mixed-Humid
+2310,51089,Henry,Virginia,Mixed-Humid
+2311,5109,Pike,Arkansas,Mixed-Humid
+2312,51093,Isle of Wight,Virginia,Mixed-Humid
+2313,51095,James City,Virginia,Mixed-Humid
+2314,51099,King George,Virginia,Mixed-Humid
+2315,51101,King William,Virginia,Mixed-Humid
+2316,51105,Lee,Virginia,Mixed-Humid
+2317,51107,Loudoun,Virginia,Mixed-Humid
+2318,51109,Louisa,Virginia,Mixed-Humid
+2319,5111,Poinsett,Arkansas,Mixed-Humid
+2320,51117,Mecklenburg,Virginia,Mixed-Humid
+2321,51121,Montgomery,Virginia,Mixed-Humid
+2322,51127,New Kent,Virginia,Mixed-Humid
+2323,5113,Polk,Arkansas,Mixed-Humid
+2324,51131,Northampton,Virginia,Mixed-Humid
+2325,51133,Northumberland,Virginia,Mixed-Humid
+2326,51135,Nottoway,Virginia,Mixed-Humid
+2327,51137,Orange,Virginia,Mixed-Humid
+2328,51139,Page,Virginia,Mixed-Humid
+2329,51141,Patrick,Virginia,Mixed-Humid
+2330,51143,Pittsylvania,Virginia,Mixed-Humid
+2331,51145,Powhatan,Virginia,Mixed-Humid
+2332,51147,Prince Edward,Virginia,Mixed-Humid
+2333,51149,Prince George,Virginia,Mixed-Humid
+2334,5115,Pope,Arkansas,Mixed-Humid
+2335,51153,Prince William,Virginia,Mixed-Humid
+2336,51155,Pulaski,Virginia,Mixed-Humid
+2337,51159,Richmond County,Virginia,Mixed-Humid
+2338,51161,Roanoke County,Virginia,Mixed-Humid
+2339,51163,Rockbridge,Virginia,Mixed-Humid
+2340,51165,Rockingham,Virginia,Mixed-Humid
+2341,51167,Russell,Virginia,Mixed-Humid
+2342,51169,Scott,Virginia,Mixed-Humid
+2343,5117,Prairie,Arkansas,Mixed-Humid
+2344,51171,Shenandoah,Virginia,Mixed-Humid
+2345,51173,Smyth,Virginia,Mixed-Humid
+2346,51175,Southampton,Virginia,Mixed-Humid
+2347,51177,Spotsylvania,Virginia,Mixed-Humid
+2348,51179,Stafford,Virginia,Mixed-Humid
+2349,51183,Sussex,Virginia,Mixed-Humid
+2350,51185,Tazewell,Virginia,Mixed-Humid
+2351,51187,Warren,Virginia,Mixed-Humid
+2352,5119,Pulaski,Arkansas,Mixed-Humid
+2353,51191,Washington,Virginia,Mixed-Humid
+2354,51193,Westmoreland,Virginia,Mixed-Humid
+2355,51195,Wise,Virginia,Mixed-Humid
+2356,51197,Wythe,Virginia,Mixed-Humid
+2357,51199,York,Virginia,Mixed-Humid
+2358,5121,Randolph,Arkansas,Mixed-Humid
+2359,5123,St. Francis,Arkansas,Mixed-Humid
+2360,5125,Saline,Arkansas,Mixed-Humid
+2361,5127,Scott,Arkansas,Mixed-Humid
+2362,5129,Searcy,Arkansas,Mixed-Humid
+2363,5131,Sebastian,Arkansas,Mixed-Humid
+2364,5133,Sevier,Arkansas,Mixed-Humid
+2365,5135,Sharp,Arkansas,Mixed-Humid
+2366,5137,Stone,Arkansas,Mixed-Humid
+2367,5139,Union,Arkansas,Hot-Humid
+2368,5141,Van Buren,Arkansas,Mixed-Humid
+2369,5143,Washington,Arkansas,Mixed-Humid
+2370,5145,White,Arkansas,Mixed-Humid
+2371,5149,Yell,Arkansas,Mixed-Humid
+2372,51510,Alexandria,Virginia,Mixed-Humid
+2373,51520,Bristol,Virginia,Mixed-Humid
+2374,51530,Buena Vista,Virginia,Mixed-Humid
+2375,51540,Charlottesville,Virginia,Mixed-Humid
+2376,51550,Chesapeake,Virginia,Mixed-Humid
+2377,51570,Colonial Heights,Virginia,Mixed-Humid
+2378,51590,Danville,Virginia,Mixed-Humid
+2379,51595,Emporia,Virginia,Mixed-Humid
+2380,51620,Franklin City,Virginia,Mixed-Humid
+2381,51630,Fredericksburg,Virginia,Mixed-Humid
+2382,51640,Galax,Virginia,Mixed-Humid
+2383,51650,Hampton,Virginia,Mixed-Humid
+2384,51660,Harrisonburg,Virginia,Mixed-Humid
+2385,51670,Hopewell,Virginia,Mixed-Humid
+2386,51678,Lexington,Virginia,Mixed-Humid
+2387,51680,Lynchburg,Virginia,Mixed-Humid
+2388,51683,Manassas,Virginia,Mixed-Humid
+2389,51685,Manassas Park,Virginia,Mixed-Humid
+2390,51690,Martinsville,Virginia,Mixed-Humid
+2391,51700,Newport News,Virginia,Mixed-Humid
+2392,51710,Norfolk,Virginia,Mixed-Humid
+2393,51730,Petersburg,Virginia,Mixed-Humid
+2394,51740,Portsmouth,Virginia,Mixed-Humid
+2395,51750,Radford,Virginia,Mixed-Humid
+2396,51760,Richmond City,Virginia,Mixed-Humid
+2397,51770,Roanoke City,Virginia,Mixed-Humid
+2398,51775,Salem,Virginia,Mixed-Humid
+2399,51790,Staunton,Virginia,Mixed-Humid
+2400,51800,Suffolk,Virginia,Mixed-Humid
+2401,51810,Virginia Beach,Virginia,Mixed-Humid
+2402,51820,Waynesboro,Virginia,Mixed-Humid
+2403,51840,Winchester,Virginia,Mixed-Humid
+2404,53001,Adams,Washington,Cold/Very cold
+2405,53003,Asotin,Washington,Cold/Very cold
+2406,53005,Benton,Washington,Cold/Very cold
+2407,53007,Chelan,Washington,Cold/Very cold
+2408,53009,Clallam,Washington,Marine
+2409,53011,Clark,Washington,Marine
+2410,53015,Cowlitz,Washington,Marine
+2411,53017,Douglas,Washington,Cold/Very cold
+2412,53021,Franklin,Washington,Cold/Very cold
+2413,53025,Grant,Washington,Cold/Very cold
+2414,53027,Grays Harbor,Washington,Marine
+2415,53029,Island,Washington,Marine
+2416,53033,King,Washington,Marine
+2417,53035,Kitsap,Washington,Marine
+2418,53037,Kittitas,Washington,Cold/Very cold
+2419,53039,Klickitat,Washington,Cold/Very cold
+2420,53041,Lewis,Washington,Marine
+2421,53045,Mason,Washington,Marine
+2422,53047,Okanogan,Washington,Cold/Very cold
+2423,53049,Pacific,Washington,Marine
+2424,53051,Pend Oreille,Washington,Cold/Very cold
+2425,53053,Pierce,Washington,Marine
+2426,53057,Skagit,Washington,Marine
+2427,53061,Snohomish,Washington,Marine
+2428,53063,Spokane,Washington,Cold/Very cold
+2429,53065,Stevens,Washington,Cold/Very cold
+2430,53067,Thurston,Washington,Marine
+2431,53071,Walla Walla,Washington,Cold/Very cold
+2432,53073,Whatcom,Washington,Marine
+2433,53075,Whitman,Washington,Cold/Very cold
+2434,53077,Yakima,Washington,Cold/Very cold
+2435,54001,Barbour,West Virginia,Cold/Very cold
+2436,54003,Berkeley,West Virginia,Mixed-Humid
+2437,54005,Boone,West Virginia,Mixed-Humid
+2438,54009,Brooke,West Virginia,Cold/Very cold
+2439,54011,Cabell,West Virginia,Mixed-Humid
+2440,54019,Fayette,West Virginia,Cold/Very cold
+2441,54021,Gilmer,West Virginia,Mixed-Humid
+2442,54023,Grant,West Virginia,Cold/Very cold
+2443,54025,Greenbrier,West Virginia,Cold/Very cold
+2444,54027,Hampshire,West Virginia,Cold/Very cold
+2445,54029,Hancock,West Virginia,Cold/Very cold
+2446,54031,Hardy,West Virginia,Cold/Very cold
+2447,54033,Harrison,West Virginia,Cold/Very cold
+2448,54035,Jackson,West Virginia,Mixed-Humid
+2449,54037,Jefferson,West Virginia,Mixed-Humid
+2450,54039,Kanawha,West Virginia,Mixed-Humid
+2451,54041,Lewis,West Virginia,Cold/Very cold
+2452,54043,Lincoln,West Virginia,Mixed-Humid
+2453,54045,Logan,West Virginia,Mixed-Humid
+2454,54047,McDowell,West Virginia,Mixed-Humid
+2455,54049,Marion,West Virginia,Cold/Very cold
+2456,54051,Marshall,West Virginia,Cold/Very cold
+2457,54053,Mason,West Virginia,Mixed-Humid
+2458,54055,Mercer,West Virginia,Mixed-Humid
+2459,54057,Mineral,West Virginia,Cold/Very cold
+2460,54059,Mingo,West Virginia,Mixed-Humid
+2461,54061,Monongalia,West Virginia,Cold/Very cold
+2462,54063,Monroe,West Virginia,Mixed-Humid
+2463,54065,Morgan,West Virginia,Mixed-Humid
+2464,54067,Nicholas,West Virginia,Cold/Very cold
+2465,54069,Ohio,West Virginia,Cold/Very cold
+2466,54073,Pleasants,West Virginia,Mixed-Humid
+2467,54077,Preston,West Virginia,Cold/Very cold
+2468,54079,Putnam,West Virginia,Mixed-Humid
+2469,54081,Raleigh,West Virginia,Cold/Very cold
+2470,54083,Randolph,West Virginia,Cold/Very cold
+2471,54089,Summers,West Virginia,Cold/Very cold
+2472,54091,Taylor,West Virginia,Cold/Very cold
+2473,54097,Upshur,West Virginia,Cold/Very cold
+2474,54099,Wayne,West Virginia,Mixed-Humid
+2475,54103,Wetzel,West Virginia,Cold/Very cold
+2476,54107,Wood,West Virginia,Mixed-Humid
+2477,54109,Wyoming,West Virginia,Mixed-Humid
+2478,55001,Adams,Wisconsin,Cold/Very cold
+2479,55003,Ashland,Wisconsin,Cold/Very cold
+2480,55005,Barron,Wisconsin,Cold/Very cold
+2481,55007,Bayfield,Wisconsin,Cold/Very cold
+2482,55009,Brown,Wisconsin,Cold/Very cold
+2483,55011,Buffalo,Wisconsin,Cold/Very cold
+2484,55013,Burnett,Wisconsin,Cold/Very cold
+2485,55015,Calumet,Wisconsin,Cold/Very cold
+2486,55017,Chippewa,Wisconsin,Cold/Very cold
+2487,55019,Clark,Wisconsin,Cold/Very cold
+2488,55021,Columbia,Wisconsin,Cold/Very cold
+2489,55023,Crawford,Wisconsin,Cold/Very cold
+2490,55025,Dane,Wisconsin,Cold/Very cold
+2491,55027,Dodge,Wisconsin,Cold/Very cold
+2492,55029,Door,Wisconsin,Cold/Very cold
+2493,55031,Douglas,Wisconsin,Cold/Very cold
+2494,55033,Dunn,Wisconsin,Cold/Very cold
+2495,55035,Eau Claire,Wisconsin,Cold/Very cold
+2496,55037,Florence,Wisconsin,Cold/Very cold
+2497,55039,Fond du Lac,Wisconsin,Cold/Very cold
+2498,55041,Forest,Wisconsin,Cold/Very cold
+2499,55043,Grant,Wisconsin,Cold/Very cold
+2500,55045,Green,Wisconsin,Cold/Very cold
+2501,55047,Green Lake,Wisconsin,Cold/Very cold
+2502,55049,Iowa,Wisconsin,Cold/Very cold
+2503,55051,Iron,Wisconsin,Cold/Very cold
+2504,55053,Jackson,Wisconsin,Cold/Very cold
+2505,55055,Jefferson,Wisconsin,Cold/Very cold
+2506,55057,Juneau,Wisconsin,Cold/Very cold
+2507,55059,Kenosha,Wisconsin,Cold/Very cold
+2508,55061,Kewaunee,Wisconsin,Cold/Very cold
+2509,55063,La Crosse,Wisconsin,Cold/Very cold
+2510,55065,Lafayette,Wisconsin,Cold/Very cold
+2511,55067,Langlade,Wisconsin,Cold/Very cold
+2512,55069,Lincoln,Wisconsin,Cold/Very cold
+2513,55071,Manitowoc,Wisconsin,Cold/Very cold
+2514,55073,Marathon,Wisconsin,Cold/Very cold
+2515,55075,Marinette,Wisconsin,Cold/Very cold
+2516,55077,Marquette,Wisconsin,Cold/Very cold
+2517,55078,Menominee,Wisconsin,Cold/Very cold
+2518,55079,Milwaukee,Wisconsin,Cold/Very cold
+2519,55081,Monroe,Wisconsin,Cold/Very cold
+2520,55083,Oconto,Wisconsin,Cold/Very cold
+2521,55085,Oneida,Wisconsin,Cold/Very cold
+2522,55087,Outagamie,Wisconsin,Cold/Very cold
+2523,55089,Ozaukee,Wisconsin,Cold/Very cold
+2524,55091,Pepin,Wisconsin,Cold/Very cold
+2525,55093,Pierce,Wisconsin,Cold/Very cold
+2526,55095,Polk,Wisconsin,Cold/Very cold
+2527,55097,Portage,Wisconsin,Cold/Very cold
+2528,55099,Price,Wisconsin,Cold/Very cold
+2529,55101,Racine,Wisconsin,Cold/Very cold
+2530,55103,Richland,Wisconsin,Cold/Very cold
+2531,55105,Rock,Wisconsin,Cold/Very cold
+2532,55107,Rusk,Wisconsin,Cold/Very cold
+2533,55109,St. Croix,Wisconsin,Cold/Very cold
+2534,55111,Sauk,Wisconsin,Cold/Very cold
+2535,55113,Sawyer,Wisconsin,Cold/Very cold
+2536,55115,Shawano,Wisconsin,Cold/Very cold
+2537,55117,Sheboygan,Wisconsin,Cold/Very cold
+2538,55119,Taylor,Wisconsin,Cold/Very cold
+2539,55121,Trempealeau,Wisconsin,Cold/Very cold
+2540,55123,Vernon,Wisconsin,Cold/Very cold
+2541,55125,Vilas,Wisconsin,Cold/Very cold
+2542,55127,Walworth,Wisconsin,Cold/Very cold
+2543,55129,Washburn,Wisconsin,Cold/Very cold
+2544,55131,Washington,Wisconsin,Cold/Very cold
+2545,55133,Waukesha,Wisconsin,Cold/Very cold
+2546,55135,Waupaca,Wisconsin,Cold/Very cold
+2547,55137,Waushara,Wisconsin,Cold/Very cold
+2548,55139,Winnebago,Wisconsin,Cold/Very cold
+2549,55141,Wood,Wisconsin,Cold/Very cold
+2550,56001,Albany,Wyoming,Cold/Very cold
+2551,56003,Big Horn,Wyoming,Cold/Very cold
+2552,56005,Campbell,Wyoming,Cold/Very cold
+2553,56007,Carbon,Wyoming,Cold/Very cold
+2554,56009,Converse,Wyoming,Cold/Very cold
+2555,56013,Fremont,Wyoming,Cold/Very cold
+2556,56015,Goshen,Wyoming,Cold/Very cold
+2557,56019,Johnson,Wyoming,Cold/Very cold
+2558,56021,Laramie,Wyoming,Cold/Very cold
+2559,56023,Lincoln,Wyoming,Cold/Very cold
+2560,56025,Natrona,Wyoming,Cold/Very cold
+2561,56029,Park,Wyoming,Cold/Very cold
+2562,56031,Platte,Wyoming,Cold/Very cold
+2563,56033,Sheridan,Wyoming,Cold/Very cold
+2564,56035,Sublette,Wyoming,Cold/Very cold
+2565,56037,Sweetwater,Wyoming,Cold/Very cold
+2566,56039,Teton,Wyoming,Cold/Very cold
+2567,56041,Uinta,Wyoming,Cold/Very cold
+2568,56043,Washakie,Wyoming,Cold/Very cold
+2569,56045,Weston,Wyoming,Cold/Very cold
+2570,6001,Alameda,California,Marine
+2571,6005,Amador,California,Hot-Dry/Mixed-Dry
+2572,6007,Butte,California,Hot-Dry/Mixed-Dry
+2573,6009,Calaveras,California,Hot-Dry/Mixed-Dry
+2574,6011,Colusa,California,Hot-Dry/Mixed-Dry
+2575,6013,Contra Costa,California,Hot-Dry/Mixed-Dry
+2576,6015,Del Norte,California,Marine
+2577,6017,El Dorado,California,Hot-Dry/Mixed-Dry
+2578,6019,Fresno,California,Hot-Dry/Mixed-Dry
+2579,6021,Glenn,California,Hot-Dry/Mixed-Dry
+2580,6023,Humboldt,California,Marine
+2581,6025,Imperial,California,Hot-Dry/Mixed-Dry
+2582,6027,Inyo,California,Hot-Dry/Mixed-Dry
+2583,6029,Kern,California,Hot-Dry/Mixed-Dry
+2584,6031,Kings,California,Hot-Dry/Mixed-Dry
+2585,6033,Lake,California,Hot-Dry/Mixed-Dry
+2586,6037,Los Angeles,California,Hot-Dry/Mixed-Dry
+2587,6039,Madera,California,Hot-Dry/Mixed-Dry
+2588,6041,Marin,California,Marine
+2589,6045,Mendocino,California,Marine
+2590,6047,Merced,California,Hot-Dry/Mixed-Dry
+2591,6051,Mono,California,Cold/Very cold
+2592,6053,Monterey,California,Marine
+2593,6055,Napa,California,Marine
+2594,6057,Nevada,California,Cold/Very cold
+2595,6059,Orange,California,Hot-Dry/Mixed-Dry
+2596,6061,Placer,California,Hot-Dry/Mixed-Dry
+2597,6063,Plumas,California,Cold/Very cold
+2598,6065,Riverside,California,Hot-Dry/Mixed-Dry
+2599,6067,Sacramento,California,Hot-Dry/Mixed-Dry
+2600,6069,San Benito,California,Marine
+2601,6071,San Bernardino,California,Hot-Dry/Mixed-Dry
+2602,6073,San Diego,California,Hot-Dry/Mixed-Dry
+2603,6075,San Francisco,California,Marine
+2604,6077,San Joaquin,California,Hot-Dry/Mixed-Dry
+2605,6079,San Luis Obispo,California,Marine
+2606,6081,San Mateo,California,Marine
+2607,6083,Santa Barbara,California,Marine
+2608,6085,Santa Clara,California,Marine
+2609,6087,Santa Cruz,California,Marine
+2610,6089,Shasta,California,Hot-Dry/Mixed-Dry
+2611,6093,Siskiyou,California,Cold/Very cold
+2612,6095,Solano,California,Hot-Dry/Mixed-Dry
+2613,6097,Sonoma,California,Marine
+2614,6099,Stanislaus,California,Hot-Dry/Mixed-Dry
+2615,6101,Sutter,California,Hot-Dry/Mixed-Dry
+2616,6103,Tehama,California,Hot-Dry/Mixed-Dry
+2617,6107,Tulare,California,Hot-Dry/Mixed-Dry
+2618,6109,Tuolumne,California,Hot-Dry/Mixed-Dry
+2619,6111,Ventura,California,Marine
+2620,6113,Yolo,California,Hot-Dry/Mixed-Dry
+2621,6115,Yuba,California,Hot-Dry/Mixed-Dry
+2622,8001,Adams,Colorado,Cold/Very cold
+2623,8003,Alamosa,Colorado,Cold/Very cold
+2624,8005,Arapahoe,Colorado,Cold/Very cold
+2625,8007,Archuleta,Colorado,Cold/Very cold
+2626,8011,Bent,Colorado,Cold/Very cold
+2627,8013,Boulder,Colorado,Cold/Very cold
+2628,8014,Broomfield,Colorado,Cold/Very cold
+2629,8015,Chaffee,Colorado,Cold/Very cold
+2630,8025,Crowley,Colorado,Cold/Very cold
+2631,8029,Delta,Colorado,Cold/Very cold
+2632,8031,Denver,Colorado,Cold/Very cold
+2633,8035,Douglas,Colorado,Cold/Very cold
+2634,8037,Eagle,Colorado,Cold/Very cold
+2635,8039,Elbert,Colorado,Cold/Very cold
+2636,8041,El Paso,Colorado,Cold/Very cold
+2637,8043,Fremont,Colorado,Cold/Very cold
+2638,8045,Garfield,Colorado,Cold/Very cold
+2639,8049,Grand,Colorado,Cold/Very cold
+2640,8051,Gunnison,Colorado,Cold/Very cold
+2641,8059,Jefferson,Colorado,Cold/Very cold
+2642,8063,Kit Carson,Colorado,Cold/Very cold
+2643,8065,Lake,Colorado,Cold/Very cold
+2644,8067,La Plata,Colorado,Cold/Very cold
+2645,8069,Larimer,Colorado,Cold/Very cold
+2646,8071,Las Animas,Colorado,Hot-Dry/Mixed-Dry
+2647,8073,Lincoln,Colorado,Cold/Very cold
+2648,8075,Logan,Colorado,Cold/Very cold
+2649,8077,Mesa,Colorado,Cold/Very cold
+2650,8081,Moffat,Colorado,Cold/Very cold
+2651,8083,Montezuma,Colorado,Cold/Very cold
+2652,8085,Montrose,Colorado,Cold/Very cold
+2653,8087,Morgan,Colorado,Cold/Very cold
+2654,8089,Otero,Colorado,Hot-Dry/Mixed-Dry
+2655,8097,Pitkin,Colorado,Cold/Very cold
+2656,8099,Prowers,Colorado,Cold/Very cold
+2657,8101,Pueblo,Colorado,Cold/Very cold
+2658,8107,Routt,Colorado,Cold/Very cold
+2659,8113,San Miguel,Colorado,Cold/Very cold
+2660,8117,Summit,Colorado,Cold/Very cold
+2661,8119,Teller,Colorado,Cold/Very cold
+2662,8123,Weld,Colorado,Cold/Very cold
+2663,8125,Yuma,Colorado,Cold/Very cold
+2664,9001,Fairfield,Connecticut,Cold/Very cold
+2665,9003,Hartford,Connecticut,Cold/Very cold
+2666,9005,Litchfield,Connecticut,Cold/Very cold
+2667,9007,Middlesex,Connecticut,Cold/Very cold
+2668,9009,New Haven,Connecticut,Cold/Very cold
+2669,9011,New London,Connecticut,Cold/Very cold
+2670,9013,Tolland,Connecticut,Cold/Very cold
+2671,9015,Windham,Connecticut,Cold/Very cold

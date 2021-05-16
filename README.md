@@ -2,7 +2,7 @@
 This is the public repository for the data and codes in the study: Yiqun Ma, Sen Pei, Jeffrey Shaman, Robert Dubrow, and Kai Chen. Role of meteorological factors in the transmission of SARS-CoV-2 in the United States. 2021
 
 # Publicly available data source
-*The data sets used in the study are publicly available from the following locations:
+The data sets used in the study are publicly available from the following locations:
 * County-level COVID-19 case and death data: https://coronavirus.jhu.edu/map.html
 * Daily numbers of inter-county visitors to points of interest: https://www.safegraph.com
 * Hourly air temperature and specific humidity: https://disc.gsfc.nasa.gov/datasets/NLDAS_FORA0125_H_002/summary?keywords=NLDAS

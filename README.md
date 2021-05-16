@@ -22,4 +22,4 @@ Estimates of county-level reproduction number are available at https://github.co
 Email: kai.chen@yale.edu
 
 # Terms of Use:
-Authors retain copyright (where applicable) of code, reproduction number estimation, and attributable fraction estimation on this Github repo and the article. Anyone who wishes to reuse or adapt this material must obtain permission from the corresponding author.
+Authors retain copyright (where applicable) of code, reproduction number estimation, and attributable fraction estimation on this Github repository and the article. Anyone who wishes to reuse or adapt this material must obtain permission from the corresponding author.

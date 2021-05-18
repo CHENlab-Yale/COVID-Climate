@@ -1,7 +1,5 @@
 # Role of meteorological factors in the transmission of SARS-CoV-2 in the United States 
-This is the public repository for the data and codes in the study: Yiqun Ma, Sen Pei, Jeffrey Shaman, Robert Dubrow, and Kai Chen. Role of meteorological factors in the transmission of SARS-CoV-2 in the United States. 2021
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4766014.svg)](https://doi.org/10.5281/zenodo.4766014)
+This is the public repository for the data and codes in the study: Yiqun Ma, Sen Pei, Jeffrey Shaman, Robert Dubrow, and Kai Chen. Role of meteorological factors in the transmission of SARS-CoV-2 in the United States. 2021 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4766014.svg)](https://doi.org/10.5281/zenodo.4766014)
 
 # Publicly available data source
 The data sets used in the study are publicly available from the following locations:
